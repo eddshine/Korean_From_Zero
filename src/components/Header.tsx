@@ -39,7 +39,7 @@ export function Header() {
         {mob ? 'KFZ' : 'Korean From Zero'}
       </button>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: mob ? '6px' : '16px', flexShrink: 0 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: mob ? '6px' : '16px', flexShrink: 1, minWidth: 0 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: mob ? '3px' : '8px' }}>
           <div style={{
             background: '#E6F7E6',
