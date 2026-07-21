@@ -5,7 +5,6 @@ import { playSfx } from '../utils/sfx'
 export function Header() {
   const { game, navigate, resetNav, requestLeave } = useGameStore()
   const xpProgress = getXpForNextLevel(game.xp)
-  const xpInLevel = game.xp % 100
 
   return (
     <header style={{
@@ -17,7 +16,6 @@ export function Header() {
       borderBottom: '2px solid var(--border)',
       zIndex: 100,
       gap: '12px',
-      flexWrap: 'wrap',
     }}>
       <button
         onClick={() => { resetNav(); navigate('home') }}
@@ -31,30 +29,33 @@ export function Header() {
           display: 'flex',
           alignItems: 'center',
           gap: '4px',
+          flexShrink: 0,
         }}
       >
         <img src="img/kfz_ico.png" alt="" style={{ height: '32px', width: '32px', margin: '-4px 0' }} />
         Korean From Zero
       </button>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: '16px', flexWrap: 'wrap' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
           <div style={{
             background: '#E6F7E6',
             borderRadius: '12px',
-            padding: '4px 12px',
-            fontSize: '13px',
+            padding: '4px 10px',
+            fontSize: '12px',
             fontWeight: 600,
             color: '#58CC02',
+            whiteSpace: 'nowrap',
           }}>
             Lv.{game.level}
           </div>
           <div style={{
-            width: '80px',
-            height: '12px',
+            width: '60px',
+            height: '10px',
             background: '#E5E5E5',
             borderRadius: '10px',
             overflow: 'hidden',
+            flexShrink: 0,
           }}>
             <div style={{
               width: `${(100 - xpProgress)}%`,
@@ -64,9 +65,6 @@ export function Header() {
               transition: 'width 0.3s ease',
             }} />
           </div>
-          <span style={{ fontSize: '11px', color: '#999', fontWeight: 600 }}>
-            +{xpInLevel % 100}/100 XP
-          </span>
         </div>
 
         <XPDisplay xp={game.xp} />
@@ -75,15 +73,15 @@ export function Header() {
           <div style={{
             display: 'flex',
             alignItems: 'center',
-            gap: '4px',
-            background: '#FFF3E0',
+            gap: '3px',
             borderRadius: '12px',
-            padding: '4px 10px',
-            fontSize: '13px',
+            padding: '4px 8px',
+            fontSize: '12px',
             fontWeight: 600,
             color: '#FF9600',
+            whiteSpace: 'nowrap',
           }}>
-            🔥 {game.streak}
+            🔥{game.streak}
           </div>
         )}
 
@@ -102,7 +100,7 @@ export function Header() {
             alignItems: 'center',
             justifyContent: 'center',
             lineHeight: 1,
-            transition: 'border-color 0.15s',
+            flexShrink: 0,
           }}
         >
           <span style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', transform: 'translateY(-1px)' }}>👤</span>
