@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Korean From Zero</string>
+    <string name="title_activity_main">Korean From Zero</string>
+    <string name="package_name">com.koreanfromzero.app</string>
+    <string name="custom_url_scheme">com.koreanfromzero.app</string>
+</resources>

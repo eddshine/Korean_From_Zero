@@ -10,15 +10,23 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "electron:dev": "vite",
-    "electron:build": "vite build && electron-builder"
+    "electron:build": "vite build && electron-builder",
+    "android:build": "vite build && npx cap sync android",
+    "android:run": "npx cap run android",
+    "android:open": "npx cap open android"
   },
   "dependencies": {
+    "@capacitor/android": "^8.4.2",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/core": "^8.4.2",
+    "@capacitor/preferences": "^8.0.1",
     "better-sqlite3": "^11.8.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "zustand": "^5.0.4"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.4.2",
     "@electron/rebuild": "^4.2.0",
     "@types/node": "^24.13.2",
     "@types/react": "^19.2.17",

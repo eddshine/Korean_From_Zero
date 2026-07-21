@@ -21,6 +21,17 @@ public/img
 # Python analysis scripts
 *.py
 
+# Capacitor / Android
+android/.gradle/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/capacitor-cordova-android-plugins/src/
+android/.idea/
+android/captures/
+android/keystore*
+android/release.keystore
+*.keystore
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
