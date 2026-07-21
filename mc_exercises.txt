@@ -1,0 +1,6007 @@
+
+============================================================
+  src/data/book1.ts
+============================================================
+
+[1] Q: What sound does ㅏ make?
+    Korean in question: ['ㅏ']
+    optionKor: ['ㅏ', 'ㅓ', 'ㅗ', 'ㅜ']
+
+
+[2] Q: What sound does ㅓ make?
+    Korean in question: ['ㅓ']
+    optionKor: ['ㅓ', 'ㅏ', 'ㅗ', 'ㅣ']
+
+
+[3] Q: Which consonant is silent at the start of a syllable?
+
+
+[4] Q: How do you read 가?
+    Korean in question: ['가']
+
+
+[5] Q: How do you read 너?
+    Korean in question: ['너']
+
+
+[6] Q: How is ㄲ different from ㄱ?
+    Korean in question: ['ㄲ', 'ㄱ']
+
+
+[7] Q: What sound does ㅋ make?
+    Korean in question: ['ㅋ']
+
+
+[8] Q: Which is the tensed version of ㅅ?
+    Korean in question: ['ㅅ']
+
+
+[9] Q: What does the batchim ㅂ sound like at the end of a syllable?
+    Korean in question: ['ㅂ']
+
+
+[10] Q: How do you read 한국?
+    Korean in question: ['한국']
+
+
+[11] Q: How do you read 책?
+    Korean in question: ['책']
+
+
+[12] Q: What does "천천히 말해 주세요." mean?
+    Korean in question: ['천천히', '말해', '주세요']
+
+
+[13] Q: What does "영어로 뭐예요?" mean?
+    Korean in question: ['영어로', '뭐예요']
+
+
+[14] Q: What does "잘 지냈어요?" mean?
+    Korean in question: ['잘', '지냈어요']
+
+
+[15] Q: What does "오래간만이에요!" mean?
+    Korean in question: ['오래간만이에요']
+
+
+[16] Q: What does "안녕히 가세요." mean?
+    Korean in question: ['안녕히', '가세요']
+
+
+[17] Q: What does "안녕히 계세요." mean?
+    Korean in question: ['안녕히', '계세요']
+
+
+[18] Q: What does "안녕." mean?
+    Korean in question: ['안녕']
+
+
+[19] Q: What does "네." mean?
+    Korean in question: ['네']
+
+
+[20] Q: What does "아니요." mean?
+    Korean in question: ['아니요']
+
+
+[21] Q: What does "괜찮아요." mean?
+    Korean in question: ['괜찮아요']
+
+
+[22] Q: What does "안돼요." mean?
+    Korean in question: ['안돼요']
+
+
+[23] Q: What does "감사합니다." mean?
+    Korean in question: ['감사합니다']
+
+
+[24] Q: What does "고마워." mean?
+    Korean in question: ['고마워']
+
+
+[25] Q: What does "천만에요." mean?
+    Korean in question: ['천만에요']
+
+
+[26] Q: What is 1 in native Korean numbers?
+
+
+[27] Q: What is 2 in native Korean numbers?
+
+
+[28] Q: What is 3 in native Korean numbers?
+
+
+[29] Q: What is 4 in native Korean?
+
+
+[30] Q: What is 5 in native Korean?
+
+
+[31] Q: What is 8 in native Korean?
+
+
+[32] Q: What is 9 in native Korean?
+
+
+[33] Q: What is 1 in Sino-Korean numbers?
+
+
+[34] Q: What is 2 in Sino-Korean?
+
+
+[35] Q: What is 3 in Sino-Korean?
+
+
+[36] Q: What is 4 in Sino-Korean?
+
+
+[37] Q: What is 5 in Sino-Korean?
+
+
+[38] Q: What is 6 in Sino-Korean?
+
+
+[39] Q: What is 7 in Sino-Korean?
+
+
+[40] Q: What is 8 in Sino-Korean?
+
+
+[41] Q: What is 9 in Sino-Korean?
+
+
+[42] Q: What is 10 in Sino-Korean?
+
+
+[43] Q: What is 20 in Sino-Korean?
+
+
+[44] Q: What is 30 in native Korean?
+
+
+[45] Q: What is 100 in Sino-Korean?
+
+
+[46] Q: What is 스물 in English?
+    Korean in question: ['스물']
+
+
+[47] Q: What is 15 in Sino-Korean?
+
+
+[48] Q: What does "성함이 어떻게 되세요?" mean?
+    Korean in question: ['성함이', '어떻게', '되세요']
+
+
+[49] Q: What does "성함이 어떻게 되십니까?" mean?
+    Korean in question: ['성함이', '어떻게', '되십니까']
+
+
+[50] Q: What does "나이가 어떻게 되세요?" mean?
+    Korean in question: ['나이가', '어떻게', '되세요']
+
+
+[51] Q: How do you ask "How old are you?" politely?
+
+
+[52] Q: How do you say "Nice to meet you" casually?
+
+
+[53] Q: What counter is used for age?
+
+
+[54] Q: What does "몰라요." mean?
+    Korean in question: ['몰라요']
+
+
+[55] Q: What does "책입니다." mean?
+    Korean in question: ['책입니다']
+
+
+[56] Q: What does "펜입니다." mean?
+    Korean in question: ['펜입니다']
+
+
+[57] Q: What does "사과입니다." mean?
+    Korean in question: ['사과입니다']
+
+
+[58] Q: What does "고양이입니다." mean?
+    Korean in question: ['고양이입니다']
+
+
+[59] Q: What does "책이에요." mean?
+    Korean in question: ['책이에요']
+
+
+[60] Q: What does "펜이에요." mean?
+    Korean in question: ['펜이에요']
+
+
+[61] Q: What does "코예요." mean?
+    Korean in question: ['코예요']
+
+
+[62] Q: What does "사과예요." mean?
+    Korean in question: ['사과예요']
+
+
+[63] Q: What does "고양이예요." mean?
+    Korean in question: ['고양이예요']
+
+
+[64] Q: What does "책이에요?" mean?
+    Korean in question: ['책이에요']
+
+
+[65] Q: What does "뭐예요?" mean?
+    Korean in question: ['뭐예요']
+
+
+[66] Q: What does "귀예요?" mean?
+    Korean in question: ['귀예요']
+
+
+[67] Q: What does "다리입니까?" mean?
+    Korean in question: ['다리입니까']
+
+
+[68] Q: What does "버스예요?" mean?
+    Korean in question: ['버스예요']
+
+
+[69] Q: What does "사과예요?" mean?
+    Korean in question: ['사과예요']
+
+
+[70] Q: What does "개입니까?" mean?
+    Korean in question: ['개입니까']
+
+
+[71] Q: When do you use 예요?
+    Korean in question: ['예요']
+
+
+[72] Q: Which is the formal polite form of 이다?
+    Korean in question: ['이다']
+
+
+[73] Q: What does "이것은 뭐예요?" mean?
+    Korean in question: ['이것은', '뭐예요']
+
+
+[74] Q: What does "미국 사람이에요?" mean?
+    Korean in question: ['미국', '사람이에요']
+
+
+[75] Q: What does "오이는 야채예요." mean?
+    Korean in question: ['오이는', '야채예요']
+
+
+[76] Q: What does "이것은 과일이에요." mean?
+    Korean in question: ['이것은', '과일이에요']
+
+
+[77] Q: What does "저것은 차입니다." mean?
+    Korean in question: ['저것은', '차입니다']
+
+
+[78] Q: What does "그것은 뭐예요?" mean?
+    Korean in question: ['그것은', '뭐예요']
+
+
+[79] Q: What does "이것은 오이예요." mean?
+    Korean in question: ['이것은', '오이예요']
+
+
+[80] Q: What does "오이는 과일이 아닙니다." mean?
+    Korean in question: ['오이는', '과일이', '아닙니다']
+
+
+[81] Q: What does 이것 mean?
+    Korean in question: ['이것']
+
+
+[82] Q: When do you use 은 as a topic marker?
+    Korean in question: ['은']
+
+
+[83] Q: What does 저것 mean?
+    Korean in question: ['저것']
+
+
+[84] Q: What does 아닙니다 mean?
+    Korean in question: ['아닙니다']
+
+
+[85] Q: What does "사과는 야채가 아닙니다." mean?
+    Korean in question: ['사과는', '야채가', '아닙니다']
+
+
+[86] Q: What does "이것은 고기가 아닙니까?" mean?
+    Korean in question: ['이것은', '고기가', '아닙니까']
+
+
+[87] Q: What does "고양이는 개가 아니에요." mean?
+    Korean in question: ['고양이는', '개가', '아니에요']
+
+
+[88] Q: What does "저것은 고기예요?" mean?
+    Korean in question: ['저것은', '고기예요']
+
+
+[89] Q: What does "이것은 과일이에요?" mean?
+    Korean in question: ['이것은', '과일이에요']
+
+
+[90] Q: What does "버섯은 고기예요?" mean?
+    Korean in question: ['버섯은', '고기예요']
+
+
+[91] Q: What does "영국 사람이에요?" mean?
+    Korean in question: ['영국', '사람이에요']
+
+
+[92] Q: What does "한국 사람이에요?" mean?
+    Korean in question: ['한국', '사람이에요']
+
+
+[93] Q: What does "작아요." mean?
+    Korean in question: ['작아요']
+
+
+[94] Q: What does "나빠요." mean?
+    Korean in question: ['나빠요']
+
+
+[95] Q: What does "맛있어요." mean?
+    Korean in question: ['맛있어요']
+
+
+[96] Q: What does "싸요." mean?
+    Korean in question: ['싸요']
+
+
+[97] Q: What does "짜요." mean?
+    Korean in question: ['짜요']
+
+
+[98] Q: What does "커요." mean?
+    Korean in question: ['커요']
+
+
+[99] Q: What does "써요." mean?
+    Korean in question: ['써요']
+
+
+[100] Q: What does "좋아요." mean?
+    Korean in question: ['좋아요']
+
+
+[101] Q: What does "달아요." mean?
+    Korean in question: ['달아요']
+
+
+[102] Q: What is the BASIC form of 크다 (to be big)?
+    Korean in question: ['크다']
+
+
+[103] Q: What is the stem of 작다 (to be small)?
+    Korean in question: ['작다']
+
+
+[104] Q: What is the polite form of 좋다?
+    Korean in question: ['좋다']
+
+
+[105] Q: What does "재미있어요." mean?
+    Korean in question: ['재미있어요']
+
+
+[106] Q: What does "차가 비싸요." mean?
+    Korean in question: ['차가', '비싸요']
+
+
+[107] Q: What does "날씨가 좋아요." mean?
+    Korean in question: ['날씨가', '좋아요']
+
+
+[108] Q: What does "귤이 달아요." mean?
+    Korean in question: ['귤이', '달아요']
+
+
+[109] Q: What does "김밥이 맛있어요." mean?
+    Korean in question: ['김밥이', '맛있어요']
+
+
+[110] Q: What does "이 책은 싸요." mean?
+    Korean in question: ['이', '책은', '싸요']
+
+
+[111] Q: What does "이 피자가 짜요." mean?
+    Korean in question: ['이', '피자가', '짜요']
+
+
+[112] Q: What does "저 과일이 비싸요." mean?
+    Korean in question: ['저', '과일이', '비싸요']
+
+
+[113] Q: What does "이 국은 뭐예요?" mean?
+    Korean in question: ['이', '국은', '뭐예요']
+
+
+[114] Q: What does "이 영화가 재미있어요." mean?
+    Korean in question: ['이', '영화가', '재미있어요']
+
+
+[115] Q: What does "저 차는 커요." mean?
+    Korean in question: ['저', '차는', '커요']
+
+
+[116] Q: What does "그 요거트는 달아요." mean?
+    Korean in question: ['그', '요거트는', '달아요']
+
+
+[117] Q: What does "그 사람은 대학생입니다." mean?
+    Korean in question: ['그', '사람은', '대학생입니다']
+
+
+[118] Q: What does "그 김밥이 맛있어요?" mean?
+    Korean in question: ['그', '김밥이', '맛있어요']
+
+
+[119] Q: What does "이 주스는 써요." mean?
+    Korean in question: ['이', '주스는', '써요']
+
+
+[120] Q: What does "날씨가 더워요." mean?
+    Korean in question: ['날씨가', '더워요']
+
+
+[121] Q: What does "이 국은 뜨거워요." mean?
+    Korean in question: ['이', '국은', '뜨거워요']
+
+
+[122] Q: What does "그 방은 추워요." mean?
+    Korean in question: ['그', '방은', '추워요']
+
+
+[123] Q: What does "누구세요?" mean?
+    Korean in question: ['누구세요']
+
+
+[124] Q: What does "맞아요." mean?
+    Korean in question: ['맞아요']
+
+
+[125] Q: What does "너의 차가 비싸?" mean?
+    Korean in question: ['너의', '차가', '비싸']
+
+
+[126] Q: What does "나의 차는 도요타예요." mean?
+    Korean in question: ['나의', '차는', '도요타예요']
+
+
+[127] Q: What does "이것은 아버지의 펜입니까?" mean?
+    Korean in question: ['이것은', '아버지의', '펜입니까']
+
+
+[128] Q: What is the polite word for "I"?
+
+
+[129] Q: What does 의 indicate?
+    Korean in question: ['의']
+
+
+[130] Q: What does 있어요 mean?
+    Korean in question: ['있어요']
+
+
+[131] Q: What is the opposite of 있어요?
+    Korean in question: ['있어요']
+
+
+[132] Q: What does 누구세요 mean?
+    Korean in question: ['누구세요']
+
+
+[133] Q: What does "이것은 친구의 책입니다." mean?
+    Korean in question: ['이것은', '친구의', '책입니다']
+
+
+[134] Q: What does "그것은 동생의 요거트예요." mean?
+    Korean in question: ['그것은', '동생의', '요거트예요']
+
+
+[135] Q: What does "제 누나는 대학생이에요." mean?
+    Korean in question: ['제', '누나는', '대학생이에요']
+
+
+[136] Q: What does "제가 미국 사람이에요." mean?
+    Korean in question: ['제가', '미국', '사람이에요']
+
+
+[137] Q: What does "누구의 것이에요?" mean?
+    Korean in question: ['누구의', '것이에요']
+
+
+[138] Q: What does "캐나다 사람이에요?" mean?
+    Korean in question: ['캐나다', '사람이에요']
+
+
+[139] Q: What does "대학생이에요?" mean?
+    Korean in question: ['대학생이에요']
+
+
+[140] Q: What does "여기요. / 저기요." mean?
+    Korean in question: ['여기요', '저기요']
+
+
+[141] Q: What does "이것은 너무 매워요!" mean?
+    Korean in question: ['이것은', '너무', '매워요']
+
+
+[142] Q: What does "이것은 너무 싸요!" mean?
+    Korean in question: ['이것은', '너무', '싸요']
+
+
+[143] Q: What does "이것은 너무 작아요!" mean?
+    Korean in question: ['이것은', '너무', '작아요']
+
+
+[144] Q: What does "이것은 아주 싸요!" mean?
+    Korean in question: ['이것은', '아주', '싸요']
+
+
+[145] Q: What does 주세요 mean?
+    Korean in question: ['주세요']
+
+
+[146] Q: What counter is used for general items?
+
+
+[147] Q: What does 알겠습니다 mean?
+    Korean in question: ['알겠습니다']
+
+
+[148] Q: What does "이것은 매우 작아요!" mean?
+    Korean in question: ['이것은', '매우', '작아요']
+
+
+[149] Q: What does "피노키오는 진짜 사람입니까?" mean?
+    Korean in question: ['피노키오는', '진짜', '사람입니까']
+
+
+[150] Q: What does "정말요?" mean?
+    Korean in question: ['정말요']
+
+
+[151] Q: What does "선생님의 차는 빨라요." mean?
+    Korean in question: ['선생님의', '차는', '빨라요']
+
+
+[152] Q: What does "그 강아지는 귀여워요." mean?
+    Korean in question: ['그', '강아지는', '귀여워요']
+
+
+[153] Q: What does "학교에서 누가 귀여워요?" mean?
+    Korean in question: ['학교에서', '누가', '귀여워요']
+
+
+[154] Q: What does "그 책이 재미있어요." mean?
+    Korean in question: ['그', '책이', '재미있어요']
+
+
+[155] Q: What does "귤을 주세요." mean?
+    Korean in question: ['귤을', '주세요']
+
+
+[156] Q: What does "숙제를 주세요." mean?
+    Korean in question: ['숙제를', '주세요']
+
+
+[157] Q: What does "차와 커피를 주세요." mean?
+    Korean in question: ['차와', '커피를', '주세요']
+
+
+[158] Q: What does "고양이와 강아지가 귀여워요." mean?
+    Korean in question: ['고양이와', '강아지가', '귀여워요']
+
+
+[159] Q: What does "우리 학교" mean?
+    Korean in question: ['우리', '학교']
+
+
+[160] Q: What does "우리 대학교" mean?
+    Korean in question: ['우리', '대학교']
+
+
+[161] Q: What does "우리 은행" mean?
+    Korean in question: ['우리', '은행']
+
+
+[162] Q: What does "우리 집" mean?
+    Korean in question: ['우리', '집']
+
+
+[163] Q: What does "이 요거트는 차가워요?" mean?
+    Korean in question: ['이', '요거트는', '차가워요']
+
+
+[164] Q: What does "집에 있었어요." mean?
+    Korean in question: ['집에', '있었어요']
+
+
+[165] Q: What does "고양이가 없었어요." mean?
+    Korean in question: ['고양이가', '없었어요']
+
+
+[166] Q: What does "그 주스는 달았어!" mean?
+    Korean in question: ['그', '주스는', '달았어']
+
+
+[167] Q: What does "개가 여기에 왔어요." mean?
+    Korean in question: ['개가', '여기에', '왔어요']
+
+
+[168] Q: What does "어머니가 목요일에 갔어요." mean?
+    Korean in question: ['어머니가', '목요일에', '갔어요']
+
+
+[169] Q: What does "토요일에 왔어요." mean?
+    Korean in question: ['토요일에', '왔어요']
+
+
+[170] Q: What does "매일 가요." mean?
+    Korean in question: ['매일', '가요']
+
+
+[171] Q: What does "내일 가요." mean?
+    Korean in question: ['내일', '가요']
+
+
+[172] Q: What does "언제 가요?" mean?
+    Korean in question: ['언제', '가요']
+
+
+[173] Q: What does "내일 집에 있어요?" mean?
+    Korean in question: ['내일', '집에', '있어요']
+
+
+[174] Q: What does "지금 집에 있어요." mean?
+    Korean in question: ['지금', '집에', '있어요']
+
+
+[175] Q: What does "서울에 갈 거예요." mean?
+    Korean in question: ['서울에', '갈', '거예요']
+
+
+[176] Q: What does "내일은 추울 거예요?" mean?
+    Korean in question: ['내일은', '추울', '거예요']
+
+
+[177] Q: What does "금요일은 더울 거예요." mean?
+    Korean in question: ['금요일은', '더울', '거예요']
+
+
+[178] Q: What does "시험이 어려울 거예요." mean?
+    Korean in question: ['시험이', '어려울', '거예요']
+
+
+[179] Q: What does "시험이 쉬울 거예요." mean?
+    Korean in question: ['시험이', '쉬울', '거예요']
+
+
+[180] Q: What does "내일은 추울 거예요." mean?
+    Korean in question: ['내일은', '추울', '거예요']
+
+
+[181] Q: What does "지금 눈이 와요." mean?
+    Korean in question: ['지금', '눈이', '와요']
+
+
+[182] Q: What does "화요일에 비가 왔어요." mean?
+    Korean in question: ['화요일에', '비가', '왔어요']
+
+
+[183] Q: What does "어제 눈이 왔어요." mean?
+    Korean in question: ['어제', '눈이', '왔어요']
+
+
+[184] Q: What does "내일 한국에 가요." mean?
+    Korean in question: ['내일', '한국에', '가요']
+
+
+[185] Q: What does "일요일에 친구가 와요." mean?
+    Korean in question: ['일요일에', '친구가', '와요']
+
+
+[186] Q: What does "십이월에 눈이 왔어요." mean?
+    Korean in question: ['십이월에', '눈이', '왔어요']
+
+
+[187] Q: What does "매년 오월이 더워요." mean?
+    Korean in question: ['매년', '오월이', '더워요']
+
+
+[188] Q: What does "얼마였어요." mean?
+    Korean in question: ['얼마였어요']
+
+
+[189] Q: What does "언제 였어요?" mean?
+    Korean in question: ['언제', '였어요']
+
+
+[190] Q: What does "매일 학교에 가요?" mean?
+    Korean in question: ['매일', '학교에', '가요']
+
+
+[191] Q: What does "언제 서울에 와요?" mean?
+    Korean in question: ['언제', '서울에', '와요']
+
+
+[192] Q: What does "어제 날씨가 추웠어요?" mean?
+    Korean in question: ['어제', '날씨가', '추웠어요']
+
+
+[193] Q: What does "친구가 많이 있어요." mean?
+    Korean in question: ['친구가', '많이', '있어요']
+
+
+[194] Q: What does "한국에 많이 갔어요." mean?
+    Korean in question: ['한국에', '많이', '갔어요']
+
+
+[195] Q: What does "여동생이랑 같이 갔어요." mean?
+    Korean in question: ['여동생이랑', '같이', '갔어요']
+
+
+[196] Q: What does "부모님하고 식당에 갔어요." mean?
+    Korean in question: ['부모님하고', '식당에', '갔어요']
+
+
+[197] Q: What does "사탕하고 바나나가 달아요." mean?
+    Korean in question: ['사탕하고', '바나나가', '달아요']
+
+
+[198] Q: What does "누가 책을 샀어요?" mean?
+    Korean in question: ['누가', '책을', '샀어요']
+
+
+[199] Q: What does "제 고양이를 봤어요?" mean?
+    Korean in question: ['제', '고양이를', '봤어요']
+
+
+[200] Q: What does "시험을 봤어요." mean?
+    Korean in question: ['시험을', '봤어요']
+
+
+[201] Q: What does "매일 김밥을 먹어요." mean?
+    Korean in question: ['매일', '김밥을', '먹어요']
+
+
+[202] Q: What does "월요일에 햄버거를 먹었어요." mean?
+    Korean in question: ['월요일에', '햄버거를', '먹었어요']
+
+
+[203] Q: What does "약을 먹을 거예요." mean?
+    Korean in question: ['약을', '먹을', '거예요']
+
+
+[204] Q: What does "국을 먹었어요." mean?
+    Korean in question: ['국을', '먹었어요']
+
+
+[205] Q: What does "다음 주 금요일" mean?
+    Korean in question: ['다음', '주', '금요일']
+
+
+[206] Q: What does "이번 주 화요일" mean?
+    Korean in question: ['이번', '주', '화요일']
+
+
+[207] Q: What does "지난주 월요일" mean?
+    Korean in question: ['지난주', '월요일']
+
+
+[208] Q: What does "다음 주 일요일" mean?
+    Korean in question: ['다음', '주', '일요일']
+
+
+[209] Q: What does "작년 일월" mean?
+    Korean in question: ['작년', '일월']
+
+
+[210] Q: What does "올해 십이월" mean?
+    Korean in question: ['올해', '십이월']
+
+
+[211] Q: What does "내년 유월" mean?
+    Korean in question: ['내년', '유월']
+
+
+[212] Q: What does "어디에서 먹었어요?" mean?
+    Korean in question: ['어디에서', '먹었어요']
+
+
+[213] Q: What does "벌써 먹었어요?" mean?
+    Korean in question: ['벌써', '먹었어요']
+
+
+[214] Q: What does "이천십오년" mean?
+    Korean in question: ['이천십오년']
+
+
+[215] Q: What does "천구백팔십년" mean?
+    Korean in question: ['천구백팔십년']
+
+
+[216] Q: What does "천구백구십사년" mean?
+    Korean in question: ['천구백구십사년']
+
+
+[217] Q: What does "천구백칠십이년" mean?
+    Korean in question: ['천구백칠십이년']
+
+
+[218] Q: What does "비행기표를 벌써 샀어요?" mean?
+    Korean in question: ['비행기표를', '벌써', '샀어요']
+
+
+[219] Q: What does "시끄러워!" mean?
+    Korean in question: ['시끄러워']
+
+
+[220] Q: What does "여기가 아주 조용해요." mean?
+    Korean in question: ['여기가', '아주', '조용해요']
+
+
+[221] Q: What does "당신의 다리가 짧아요." mean?
+    Korean in question: ['당신의', '다리가', '짧아요']
+
+
+[222] Q: What does "영어는 한국어와 달라요." mean?
+    Korean in question: ['영어는', '한국어와', '달라요']
+
+
+[223] Q: What does "여자랑 남자는 달라요." mean?
+    Korean in question: ['여자랑', '남자는', '달라요']
+
+
+[224] Q: What does "이것은 그것과 같아요." mean?
+    Korean in question: ['이것은', '그것과', '같아요']
+
+
+[225] Q: What does "어제와 같아요." mean?
+    Korean in question: ['어제와', '같아요']
+
+
+[226] Q: What does "커피랑 비슷해요." mean?
+    Korean in question: ['커피랑', '비슷해요']
+
+
+[227] Q: What does "오늘은 약이 필요없었어요." mean?
+    Korean in question: ['오늘은', '약이', '필요없었어요']
+
+
+[228] Q: What does "시간이 필요해요." mean?
+    Korean in question: ['시간이', '필요해요']
+
+
+[229] Q: What does "집이 가까워요?" mean?
+    Korean in question: ['집이', '가까워요']
+
+
+[230] Q: What does "집에서 회사가 멀어요." mean?
+    Korean in question: ['집에서', '회사가', '멀어요']
+
+
+[231] Q: What does "병원이 공항에서 멀어요." mean?
+    Korean in question: ['병원이', '공항에서', '멀어요']
+
+
+[232] Q: What does "지금 숙제를 해요." mean?
+    Korean in question: ['지금', '숙제를', '해요']
+
+
+[233] Q: What does "야채를 싫어해요." mean?
+    Korean in question: ['야채를', '싫어해요']
+
+
+[234] Q: What does "너를 정말 사랑했어." mean?
+    Korean in question: ['너를', '정말', '사랑했어']
+
+
+[235] Q: What does "선생님은 월요일을 싫어해요." mean?
+    Korean in question: ['선생님은', '월요일을', '싫어해요']
+
+
+[236] Q: What does "싼 핸드폰을 싫어해요." mean?
+    Korean in question: ['싼', '핸드폰을', '싫어해요']
+
+
+[237] Q: What does "착한 여자친구가 필요해요." mean?
+    Korean in question: ['착한', '여자친구가', '필요해요']
+
+
+[238] Q: What does "쉬운 시험을 좋아해요." mean?
+    Korean in question: ['쉬운', '시험을', '좋아해요']
+
+
+[239] Q: What does "필요한 것이 있어요?" mean?
+    Korean in question: ['필요한', '것이', '있어요']
+
+
+[240] Q: What does "한국어 많이 공부했어요?" mean?
+    Korean in question: ['한국어', '많이', '공부했어요']
+
+
+[241] Q: What does "아침에 뭐 먹었어요?" mean?
+    Korean in question: ['아침에', '뭐', '먹었어요']
+
+
+[242] Q: What does "저① ②친구가 ③해요." mean?
+    Korean in question: ['저', '친구가', '해요']
+
+
+[243] Q: What does "내 ①는 ②요." mean?
+    Korean in question: ['내', '는', '요']
+
+
+[244] Q: What does "제 ①친구는 ②요." mean?
+    Korean in question: ['제', '친구는', '요']
+
+
+[245] Q: What does "꽃을 받았어요." mean?
+    Korean in question: ['꽃을', '받았어요']
+
+
+[246] Q: What does "내일 돈을 받아요." mean?
+    Korean in question: ['내일', '돈을', '받아요']
+
+
+[247] Q: What does "사탕 두개를 받았어요." mean?
+    Korean in question: ['사탕', '두개를', '받았어요']
+
+
+[248] Q: What does "책을 줬어요." mean?
+    Korean in question: ['책을', '줬어요']
+
+
+[249] Q: What does "돈을 줬어요." mean?
+    Korean in question: ['돈을', '줬어요']
+
+
+[250] Q: What does "전화했어요." mean?
+    Korean in question: ['전화했어요']
+
+
+[251] Q: What does "지금 전화해요." mean?
+    Korean in question: ['지금', '전화해요']
+
+
+[252] Q: What does "전화를 받았어요." mean?
+    Korean in question: ['전화를', '받았어요']
+
+
+[253] Q: What does "알아요." mean?
+    Korean in question: ['알아요']
+
+
+[254] Q: What does "알았어요." mean?
+    Korean in question: ['알았어요']
+
+
+[255] Q: What does "수업 시간을 알아요?" mean?
+    Korean in question: ['수업', '시간을', '알아요']
+
+
+[256] Q: What does "몰라요." mean?
+    Korean in question: ['몰라요']
+
+
+[257] Q: What does "몰랐어요." mean?
+    Korean in question: ['몰랐어요']
+
+
+[258] Q: What does "선생님의 이름을 몰랐어요." mean?
+    Korean in question: ['선생님의', '이름을', '몰랐어요']
+
+
+[259] Q: What does "친구한테 돈을 줬어요." mean?
+    Korean in question: ['친구한테', '돈을', '줬어요']
+
+
+[260] Q: What does "선생님에게 사과를 줬어요." mean?
+    Korean in question: ['선생님에게', '사과를', '줬어요']
+
+
+[261] Q: What does "친구한테서 돈을 받았어요." mean?
+    Korean in question: ['친구한테서', '돈을', '받았어요']
+
+
+[262] Q: What does "선생님에게서 사과를 받았어요." mean?
+    Korean in question: ['선생님에게서', '사과를', '받았어요']
+
+
+[263] Q: What does "친구한테서 전화 받았어요." mean?
+    Korean in question: ['친구한테서', '전화', '받았어요']
+
+
+[264] Q: What does "먹어 볼 거예요." mean?
+    Korean in question: ['먹어', '볼', '거예요']
+
+
+[265] Q: What does "가 볼 거예요." mean?
+    Korean in question: ['가', '볼', '거예요']
+
+
+[266] Q: What does "마셔 볼 거예요." mean?
+    Korean in question: ['마셔', '볼', '거예요']
+
+
+[267] Q: What does "해 볼 거예요." mean?
+    Korean in question: ['해', '볼', '거예요']
+
+
+[268] Q: What does "와 볼 거예요." mean?
+    Korean in question: ['와', '볼', '거예요']
+
+
+[269] Q: What does "먹어 봤어요." mean?
+    Korean in question: ['먹어', '봤어요']
+
+
+[270] Q: What does "가 봤어요." mean?
+    Korean in question: ['가', '봤어요']
+
+
+[271] Q: What does "마셔 봤어요." mean?
+    Korean in question: ['마셔', '봤어요']
+
+
+[272] Q: What does "해 봤어요." mean?
+    Korean in question: ['해', '봤어요']
+
+
+[273] Q: What does "와 봤어요." mean?
+    Korean in question: ['와', '봤어요']
+
+
+[274] Q: What does "일본에 가 봤어요?" mean?
+    Korean in question: ['일본에', '가', '봤어요']
+
+
+[275] Q: What does "김밥을 먹어 봤어요?" mean?
+    Korean in question: ['김밥을', '먹어', '봤어요']
+
+
+[276] Q: What does "역사를 공부해 봤어요?" mean?
+    Korean in question: ['역사를', '공부해', '봤어요']
+
+
+[277] Q: What does "먹어!" mean?
+    Korean in question: ['먹어']
+
+
+[278] Q: What does "가!" mean?
+    Korean in question: ['가']
+
+
+[279] Q: What does "마셔!" mean?
+    Korean in question: ['마셔']
+
+
+[280] Q: What does "해 봐!" mean?
+    Korean in question: ['해', '봐']
+
+
+[281] Q: What does "와!" mean?
+    Korean in question: ['와']
+
+
+[282] Q: What does "사!" mean?
+    Korean in question: ['사']
+
+
+[283] Q: What does "먹어 봐!" mean?
+    Korean in question: ['먹어', '봐']
+
+
+[284] Q: What does "미국 사람이야." mean?
+    Korean in question: ['미국', '사람이야']
+
+
+[285] Q: What does "어디야?" mean?
+    Korean in question: ['어디야']
+
+
+[286] Q: What does "누구야?" mean?
+    Korean in question: ['누구야']
+
+
+[287] Q: What does "고양이 아니야." mean?
+    Korean in question: ['고양이', '아니야']
+
+
+[288] Q: What does "미국 사람 아니야." mean?
+    Korean in question: ['미국', '사람', '아니야']
+
+
+[289] Q: What does "아니야!" mean?
+    Korean in question: ['아니야']
+
+
+[290] Q: What does "많이 먹었어." mean?
+    Korean in question: ['많이', '먹었어']
+
+
+[291] Q: What does "언제 와?" mean?
+    Korean in question: ['언제', '와']
+
+
+[292] Q: What does "숙제 했어?" mean?
+    Korean in question: ['숙제', '했어']
+
+
+[293] Q: What does "너 사랑해." mean?
+    Korean in question: ['너', '사랑해']
+
+
+[294] Q: What does "뭐해?" mean?
+    Korean in question: ['뭐해']
+
+
+[295] Q: What does "돈 줄 거야." mean?
+    Korean in question: ['돈', '줄', '거야']
+
+
+[296] Q: What does "내일 갈 거야?" mean?
+    Korean in question: ['내일', '갈', '거야']
+
+
+[297] Q: What does "빨리해!" mean?
+    Korean in question: ['빨리해']
+
+
+[298] Q: What does "그냥 마셔." mean?
+    Korean in question: ['그냥', '마셔']
+
+
+[299] Q: What does "먹어 봐." mean?
+    Korean in question: ['먹어', '봐']
+
+
+[300] Q: What does "와." mean?
+    Korean in question: ['와']
+
+
+[301] Q: What does "이거 뭐야?" mean?
+    Korean in question: ['이거', '뭐야']
+
+
+[302] Q: What does "이거 누구 거야?" mean?
+    Korean in question: ['이거', '누구', '거야']
+
+
+[303] Q: What does "그거 너무 재미있어." mean?
+    Korean in question: ['그거', '너무', '재미있어']
+
+
+[304] Q: What does "아니" mean?
+    Korean in question: ['아니']
+
+
+[305] Q: What does "야!" mean?
+    Korean in question: ['야']
+
+
+[306] Q: What does "준호의 전화를 받았어요?" mean?
+    Korean in question: ['준호의', '전화를', '받았어요']
+
+
+[307] Q: What does "부모님한테서 뭐 받았어요?" mean?
+    Korean in question: ['부모님한테서', '뭐', '받았어요']
+
+
+[308] Q: What does "이것을 먹어 봤어요?" mean?
+    Korean in question: ['이것을', '먹어', '봤어요']
+
+
+[309] Q: What does "가지 않았어요. (past)" mean?
+    Korean in question: ['가지', '않았어요']
+
+
+[310] Q: What does "춥지 않았어요. (past)" mean?
+    Korean in question: ['춥지', '않았어요']
+
+
+[311] Q: What does "필요하지 않았어요. (past)" mean?
+    Korean in question: ['필요하지', '않았어요']
+
+
+[312] Q: What does "저는 병원에서 일합니다." mean?
+    Korean in question: ['저는', '병원에서', '일합니다']
+
+
+[313] Q: What does "호텔에서 쉬어요." mean?
+    Korean in question: ['호텔에서', '쉬어요']
+
+
+[314] Q: What does "공원에서 쉴 거예요." mean?
+    Korean in question: ['공원에서', '쉴', '거예요']
+
+
+[315] Q: What does "아침밥 같이 먹을까요?" mean?
+    Korean in question: ['아침밥', '같이', '먹을까요']
+
+
+[316] Q: What does "어디까지 갈까요?" mean?
+    Korean in question: ['어디까지', '갈까요']
+
+
+[317] Q: What does "두 시에 시작할까요?" mean?
+    Korean in question: ['두', '시에', '시작할까요']
+
+
+[318] Q: What does "세 시부터 쉴까요?" mean?
+    Korean in question: ['세', '시부터', '쉴까요']
+
+
+[319] Q: What does "몇 시에 갈까요?" mean?
+    Korean in question: ['몇', '시에', '갈까요']
+
+
+[320] Q: What does "뭐를 살까요?" mean?
+    Korean in question: ['뭐를', '살까요']
+
+
+[321] Q: What does "몇 시부터 출발할까요?" mean?
+    Korean in question: ['몇', '시부터', '출발할까요']
+
+
+[322] Q: What does "누구한테 전화할까요?" mean?
+    Korean in question: ['누구한테', '전화할까요']
+
+
+[323] Q: What does "몇 분 수영할까요?" mean?
+    Korean in question: ['몇', '분', '수영할까요']
+
+
+[324] Q: What does "누구한테서 받을까요?" mean?
+    Korean in question: ['누구한테서', '받을까요']
+
+
+[325] Q: What does "지금 먹을까?" mean?
+    Korean in question: ['지금', '먹을까']
+
+
+[326] Q: What does "공부할까?" mean?
+    Korean in question: ['공부할까']
+
+
+[327] Q: What does "점심밥을 먹읍시다." mean?
+    Korean in question: ['점심밥을', '먹읍시다']
+
+
+[328] Q: What does "같이 공부합시다." mean?
+    Korean in question: ['같이', '공부합시다']
+
+
+[329] Q: What does "영화를 봅시다." mean?
+    Korean in question: ['영화를', '봅시다']
+
+
+[330] Q: What does "맛있는 것을 삽시다." mean?
+    Korean in question: ['맛있는', '것을', '삽시다']
+
+
+[331] Q: What does "어머니한테 전화합시다." mean?
+    Korean in question: ['어머니한테', '전화합시다']
+
+
+[332] Q: What does "점심밥을 먹자." mean?
+    Korean in question: ['점심밥을', '먹자']
+
+
+[333] Q: What does "같이 공부하자." mean?
+    Korean in question: ['같이', '공부하자']
+
+
+[334] Q: What does "영화를 보자." mean?
+    Korean in question: ['영화를', '보자']
+
+
+[335] Q: What does "맛있는 것을 사자." mean?
+    Korean in question: ['맛있는', '것을', '사자']
+
+
+[336] Q: What does "어머니한테 전화하자." mean?
+    Korean in question: ['어머니한테', '전화하자']
+
+
+[337] Q: What does "여자에 대해 몰라!" mean?
+    Korean in question: ['여자에', '대해', '몰라']
+
+
+[338] Q: What does "싸이에 대해 알아요?" mean?
+    Korean in question: ['싸이에', '대해', '알아요']
+
+
+[339] Q: What does "지금, 회사에 있어요." mean?
+    Korean in question: ['지금', '회사에', '있어요']
+
+
+[340] Q: What does "내일 뭐해?" mean?
+    Korean in question: ['내일', '뭐해']
+
+
+[341] Q: What does "이 커피 필요해요?" mean?
+    Korean in question: ['이', '커피', '필요해요']
+
+
+[342] Q: What does "누구를 사랑해요?" mean?
+    Korean in question: ['누구를', '사랑해요']
+
+
+[343] Q: What does "점심밥을 먹었어요?" mean?
+    Korean in question: ['점심밥을', '먹었어요']
+
+
+[344] Q: What does "만화책을 읽지 않아요." mean?
+    Korean in question: ['만화책을', '읽지', '않아요']
+
+
+[345] Q: What does "진짜 걸었어요?" mean?
+    Korean in question: ['진짜', '걸었어요']
+
+
+[346] Q: What does "질문이 있어요?" mean?
+    Korean in question: ['질문이', '있어요']
+
+
+[347] Q: What does "대답은 어려워요." mean?
+    Korean in question: ['대답은', '어려워요']
+
+
+[348] Q: What does "이메일에 다 답장했어요." mean?
+    Korean in question: ['이메일에', '다', '답장했어요']
+
+
+[349] Q: What does "한국어를 배워요." mean?
+    Korean in question: ['한국어를', '배워요']
+
+
+[350] Q: What does "선생님한테 질문했어요." mean?
+    Korean in question: ['선생님한테', '질문했어요']
+
+
+[351] Q: What does "아빠에게 질문할 거예요." mean?
+    Korean in question: ['아빠에게', '질문할', '거예요']
+
+
+[352] Q: What does "서울부터 부산까지" mean?
+    Korean in question: ['서울부터', '부산까지']
+
+
+[353] Q: What does "집부터 학교까지" mean?
+    Korean in question: ['집부터', '학교까지']
+
+
+[354] Q: What does "직장부터 여기까지" mean?
+    Korean in question: ['직장부터', '여기까지']
+
+
+[355] Q: What does "어디까지 갈 거예요?" mean?
+    Korean in question: ['어디까지', '갈', '거예요']
+
+
+[356] Q: What does "몇 시까지 일해요?" mean?
+    Korean in question: ['몇', '시까지', '일해요']
+
+
+[357] Q: What does "언제부터 시작할 거예요?" mean?
+    Korean in question: ['언제부터', '시작할', '거예요']
+
+
+[358] Q: What does "어디부터 어디까지 갔어요?" mean?
+    Korean in question: ['어디부터', '어디까지', '갔어요']
+
+
+[359] Q: What does "어디에서 왔어요?" mean?
+    Korean in question: ['어디에서', '왔어요']
+
+
+[360] Q: What does "집에서 왔어요?" mean?
+    Korean in question: ['집에서', '왔어요']
+
+
+[361] Q: What does "가 주세요." mean?
+    Korean in question: ['가', '주세요']
+
+
+[362] Q: What does "사 주세요." mean?
+    Korean in question: ['사', '주세요']
+
+
+[363] Q: What does "해 주세요." mean?
+    Korean in question: ['해', '주세요']
+
+
+[364] Q: What does "먹어 주세요." mean?
+    Korean in question: ['먹어', '주세요']
+
+
+[365] Q: What does "할 거예요." mean?
+    Korean in question: ['할', '거예요']
+
+
+[366] Q: What does "갈 거예요." mean?
+    Korean in question: ['갈', '거예요']
+
+
+[367] Q: What does "물을 거예요." mean?
+    Korean in question: ['물을', '거예요']
+
+
+[368] Q: What does "잘 먹었어요." mean?
+    Korean in question: ['잘', '먹었어요']
+
+
+[369] Q: What does "선생님에게 질문했어요?" mean?
+    Korean in question: ['선생님에게', '질문했어요']
+
+
+[370] Q: What does "이름 물어봤어요?" mean?
+    Korean in question: ['이름', '물어봤어요']
+
+
+[371] Q: What does "선생님① 이메일을 ②요." mean?
+    Korean in question: ['선생님', '이메일을', '요']
+
+
+[372] Q: What does "어제 ①을 ②요." mean?
+    Korean in question: ['어제', '을', '요']
+
+
+[373] Q: What does "사랑①요." mean?
+    Korean in question: ['사랑', '요']
+
+
+[374] Q: What does "불고기 아직 있어요?" mean?
+    Korean in question: ['불고기', '아직', '있어요']
+
+
+[375] Q: What does "아직 한국어를 공부해요." mean?
+    Korean in question: ['아직', '한국어를', '공부해요']
+
+
+[376] Q: What does "뉴욕 아직 추워요?" mean?
+    Korean in question: ['뉴욕', '아직', '추워요']
+
+
+[377] Q: What does "도쿄에서 늦게 출발했어요." mean?
+    Korean in question: ['도쿄에서', '늦게', '출발했어요']
+
+
+[378] Q: What does "늦게 왔어요. 죄송합니다." mean?
+    Korean in question: ['늦게', '왔어요', '죄송합니다']
+
+
+[379] Q: What does "늦게 밥을 먹었어요." mean?
+    Korean in question: ['늦게', '밥을', '먹었어요']
+
+
+[380] Q: What does "오늘은 처음이에요." mean?
+    Korean in question: ['오늘은', '처음이에요']
+
+
+[381] Q: What does "처음은 어려워요." mean?
+    Korean in question: ['처음은', '어려워요']
+
+
+[382] Q: What does "처음에 어려웠어요." mean?
+    Korean in question: ['처음에', '어려웠어요']
+
+
+[383] Q: What does "처음에 재미있었어요." mean?
+    Korean in question: ['처음에', '재미있었어요']
+
+
+[384] Q: What does "처음부터 어려웠어요." mean?
+    Korean in question: ['처음부터', '어려웠어요']
+
+
+[385] Q: What does "처음부터 재미있었어요." mean?
+    Korean in question: ['처음부터', '재미있었어요']
+
+
+[386] Q: What does "처음으로 먹었어요." mean?
+    Korean in question: ['처음으로', '먹었어요']
+
+
+[387] Q: What does "처음으로 들었어요." mean?
+    Korean in question: ['처음으로', '들었어요']
+
+
+[388] Q: What does "처음 봤어요." mean?
+    Korean in question: ['처음', '봤어요']
+
+
+[389] Q: What does "처음 왔어요." mean?
+    Korean in question: ['처음', '왔어요']
+
+
+[390] Q: What does "다시 하자!" mean?
+    Korean in question: ['다시', '하자']
+
+
+[391] Q: What does "다시 와 주세요." mean?
+    Korean in question: ['다시', '와', '주세요']
+
+
+[392] Q: What does "다시 물어봐요." mean?
+    Korean in question: ['다시', '물어봐요']
+
+
+[393] Q: What does "괜찮아요." mean?
+    Korean in question: ['괜찮아요']
+
+
+[394] Q: What does "물론이에요." mean?
+    Korean in question: ['물론이에요']
+
+
+[395] Q: What does "먹고 있었어요." mean?
+    Korean in question: ['먹고', '있었어요']
+
+
+[396] Q: What does "먹고 있지 않아요." mean?
+    Korean in question: ['먹고', '있지', '않아요']
+
+
+[397] Q: What does "먹고 있지 않았어요." mean?
+    Korean in question: ['먹고', '있지', '않았어요']
+
+
+[398] Q: What does "일하고 있어요." mean?
+    Korean in question: ['일하고', '있어요']
+
+
+[399] Q: What does "일하고 있었어요." mean?
+    Korean in question: ['일하고', '있었어요']
+
+
+[400] Q: What does "일하고 있지 않아요." mean?
+    Korean in question: ['일하고', '있지', '않아요']
+
+
+[401] Q: What does "일하고 있지 않았어요." mean?
+    Korean in question: ['일하고', '있지', '않았어요']
+
+
+[402] Q: What does "제가 지금 먹어요." mean?
+    Korean in question: ['제가', '지금', '먹어요']
+
+
+[403] Q: What does "여기까지 자전거를 탔어요." mean?
+    Korean in question: ['여기까지', '자전거를', '탔어요']
+
+
+[404] Q: What does "기차에서 내립시다." mean?
+    Korean in question: ['기차에서', '내립시다']
+
+
+[405] Q: What does "친구랑 말해요." mean?
+    Korean in question: ['친구랑', '말해요']
+
+
+[406] Q: What does "사장님에게 말했어요?" mean?
+    Korean in question: ['사장님에게', '말했어요']
+
+
+[407] Q: What does "선생님한테 말해 봐요." mean?
+    Korean in question: ['선생님한테', '말해', '봐요']
+
+
+[408] Q: What does "버스에서 많이 말해요." mean?
+    Korean in question: ['버스에서', '많이', '말해요']
+
+
+[409] Q: What does "매일 한국어를 말해요." mean?
+    Korean in question: ['매일', '한국어를', '말해요']
+
+
+[410] Q: What does "할아버지한테 사진을 보냈어요." mean?
+    Korean in question: ['할아버지한테', '사진을', '보냈어요']
+
+
+[411] Q: What does "계산기를 쓰지 않았어요." mean?
+    Korean in question: ['계산기를', '쓰지', '않았어요']
+
+
+[412] Q: What does "버스로 갈 거예요." mean?
+    Korean in question: ['버스로', '갈', '거예요']
+
+
+[413] Q: What does "비행기로 갈 거예요." mean?
+    Korean in question: ['비행기로', '갈', '거예요']
+
+
+[414] Q: What does "택시로 갈 거예요." mean?
+    Korean in question: ['택시로', '갈', '거예요']
+
+
+[415] Q: What does "지하철로 갈 거예요." mean?
+    Korean in question: ['지하철로', '갈', '거예요']
+
+
+[416] Q: What does "이메일로 보냈어요." mean?
+    Korean in question: ['이메일로', '보냈어요']
+
+
+[417] Q: What does "카드로 샀어요." mean?
+    Korean in question: ['카드로', '샀어요']
+
+
+[418] Q: What does "젓가락으로 먹었어요." mean?
+    Korean in question: ['젓가락으로', '먹었어요']
+
+
+[419] Q: What does "연필로 썼어요." mean?
+    Korean in question: ['연필로', '썼어요']
+
+
+[420] Q: What does "핸드폰으로 전화했어요." mean?
+    Korean in question: ['핸드폰으로', '전화했어요']
+
+
+[421] Q: What does "영어로 말해 주세요." mean?
+    Korean in question: ['영어로', '말해', '주세요']
+
+
+[422] Q: What does "한국어로 말해 주세요." mean?
+    Korean in question: ['한국어로', '말해', '주세요']
+
+
+[423] Q: What does "일본어로 말해 주세요." mean?
+    Korean in question: ['일본어로', '말해', '주세요']
+
+
+[424] Q: What does "친구들" mean?
+    Korean in question: ['친구들']
+
+
+[425] Q: What does "사람들" mean?
+    Korean in question: ['사람들']
+
+
+[426] Q: What does "책들" mean?
+    Korean in question: ['책들']
+
+
+[427] Q: What does "선생님들" mean?
+    Korean in question: ['선생님들']
+
+
+[428] Q: What does "집들" mean?
+    Korean in question: ['집들']
+
+
+[429] Q: What does "고양이들" mean?
+    Korean in question: ['고양이들']
+
+
+[430] Q: What does "고양이들이 귀여워요." mean?
+    Korean in question: ['고양이들이', '귀여워요']
+
+
+[431] Q: What does "이 집들은 예뻐요." mean?
+    Korean in question: ['이', '집들은', '예뻐요']
+
+
+[432] Q: What does "대학생들이 숙제가 많아요." mean?
+    Korean in question: ['대학생들이', '숙제가', '많아요']
+
+
+[433] Q: What does "이 연필들이 길어요." mean?
+    Korean in question: ['이', '연필들이', '길어요']
+
+
+[434] Q: What does "오늘 못 먹었어요." mean?
+    Korean in question: ['오늘', '못', '먹었어요']
+
+
+[435] Q: What does "못 자요." mean?
+    Korean in question: ['못', '자요']
+
+
+[436] Q: What does "숙제를 못 해요." mean?
+    Korean in question: ['숙제를', '못', '해요']
+
+
+[437] Q: What does "일 하지 못했어요." mean?
+    Korean in question: ['일', '하지', '못했어요']
+
+
+[438] Q: What does "전화 못 했어요." mean?
+    Korean in question: ['전화', '못', '했어요']
+
+
+[439] Q: What does "이메일을 못 보내요." mean?
+    Korean in question: ['이메일을', '못', '보내요']
+
+
+[440] Q: What does "저에게 사진 보냈어요?" mean?
+    Korean in question: ['저에게', '사진', '보냈어요']
+
+
+[441] Q: What does "버스를 탔어요?" mean?
+    Korean in question: ['버스를', '탔어요']
+
+
+[442] Q: What does "뭐해요?" mean?
+    Korean in question: ['뭐해요']
+
+
+[443] Q: What does "친구①② ③ 있어요." mean?
+    Korean in question: ['친구', '있어요']
+
+
+[444] Q: What does "무슨 음식을 싫어해요?" mean?
+    Korean in question: ['무슨', '음식을', '싫어해요']
+
+
+[445] Q: What does "어떤 동물을 좋아해요?" mean?
+    Korean in question: ['어떤', '동물을', '좋아해요']
+
+
+[446] Q: What does "어떤 것을 샀어요?" mean?
+    Korean in question: ['어떤', '것을', '샀어요']
+
+
+[447] Q: What does "어느 식당에 갔어요?" mean?
+    Korean in question: ['어느', '식당에', '갔어요']
+
+
+[448] Q: What does "어느 것이 싸요?" mean?
+    Korean in question: ['어느', '것이', '싸요']
+
+
+[449] Q: What does "매운 것을 주세요." mean?
+    Korean in question: ['매운', '것을', '주세요']
+
+
+[450] Q: What does "비싼 것을 좋아해요." mean?
+    Korean in question: ['비싼', '것을', '좋아해요']
+
+
+[451] Q: What does "어느 것을  좋아해요?" mean?
+    Korean in question: ['어느', '것을', '좋아해요']
+
+
+[452] Q: What does "물 더 주세요." mean?
+    Korean in question: ['물', '더', '주세요']
+
+
+[453] Q: What does "과일을 더 샀어요." mean?
+    Korean in question: ['과일을', '더', '샀어요']
+
+
+[454] Q: What does "고양이가 더 필요해요." mean?
+    Korean in question: ['고양이가', '더', '필요해요']
+
+
+[455] Q: What does "더 필요했어요." mean?
+    Korean in question: ['더', '필요했어요']
+
+
+[456] Q: What does "친구들은 너무 중요해요." mean?
+    Korean in question: ['친구들은', '너무', '중요해요']
+
+
+[457] Q: What does "부모님은 아이에게 중요해요." mean?
+    Korean in question: ['부모님은', '아이에게', '중요해요']
+
+
+[458] Q: What does "스타크래프트가 중요하지 않아요." mean?
+    Korean in question: ['스타크래프트가', '중요하지', '않아요']
+
+
+[459] Q: What does "제 머리가 아파요." mean?
+    Korean in question: ['제', '머리가', '아파요']
+
+
+[460] Q: What does "제 할아버지는 아파요." mean?
+    Korean in question: ['제', '할아버지는', '아파요']
+
+
+[461] Q: What does "몸이 아파!" mean?
+    Korean in question: ['몸이', '아파']
+
+
+[462] Q: What does "팔꿈치가 아주 아파요." mean?
+    Korean in question: ['팔꿈치가', '아주', '아파요']
+
+
+[463] Q: What does "저는 지난주부터 슬퍼요." mean?
+    Korean in question: ['저는', '지난주부터', '슬퍼요']
+
+
+[464] Q: What does "어제 기뻤어요." mean?
+    Korean in question: ['어제', '기뻤어요']
+
+
+[465] Q: What does "아침부터 배불러요." mean?
+    Korean in question: ['아침부터', '배불러요']
+
+
+[466] Q: What does "배고파!" mean?
+    Korean in question: ['배고파']
+
+
+[467] Q: What does "어제 정말 배고팠어요." mean?
+    Korean in question: ['어제', '정말', '배고팠어요']
+
+
+[468] Q: What does "어디에서 만날까요?" mean?
+    Korean in question: ['어디에서', '만날까요']
+
+
+[469] Q: What does "처음에 어디에서 만났어요?" mean?
+    Korean in question: ['처음에', '어디에서', '만났어요']
+
+
+[470] Q: What does "내일 놀자." mean?
+    Korean in question: ['내일', '놀자']
+
+
+[471] Q: What does "나는 초록색을 좋아해요." mean?
+    Korean in question: ['나는', '초록색을', '좋아해요']
+
+
+[472] Q: What does "제 차가 파란색이에요." mean?
+    Korean in question: ['제', '차가', '파란색이에요']
+
+
+[473] Q: What does "축구공은 검은색과 흰색이에요." mean?
+    Korean in question: ['축구공은', '검은색과', '흰색이에요']
+
+
+[474] Q: What does "빨간색 차를 좋아해요." mean?
+    Korean in question: ['빨간색', '차를', '좋아해요']
+
+
+[475] Q: What does "초록색 사과가 써요." mean?
+    Korean in question: ['초록색', '사과가', '써요']
+
+
+[476] Q: What does "분홍색 치마가 필요해요." mean?
+    Korean in question: ['분홍색', '치마가', '필요해요']
+
+
+[477] Q: What does "가지 마세요." mean?
+    Korean in question: ['가지', '마세요']
+
+
+[478] Q: What does "오지 마세요." mean?
+    Korean in question: ['오지', '마세요']
+
+
+[479] Q: What does "사지 마세요." mean?
+    Korean in question: ['사지', '마세요']
+
+
+[480] Q: What does "하지 마세요." mean?
+    Korean in question: ['하지', '마세요']
+
+
+[481] Q: What does "먹지 마세요." mean?
+    Korean in question: ['먹지', '마세요']
+
+
+[482] Q: What does "가지 마!" mean?
+    Korean in question: ['가지', '마']
+
+
+[483] Q: What does "먹지 마!" mean?
+    Korean in question: ['먹지', '마']
+
+
+[484] Q: What does "자지 마!" mean?
+    Korean in question: ['자지', '마']
+
+
+[485] Q: What does "보지 마!" mean?
+    Korean in question: ['보지', '마']
+
+
+[486] Q: What does "진짜 자고 싶어요!" mean?
+    Korean in question: ['진짜', '자고', '싶어요']
+
+
+[487] Q: What does "강남역에서 내리고 싶어요." mean?
+    Korean in question: ['강남역에서', '내리고', '싶어요']
+
+
+[488] Q: What does "축구를 연습하고 싶어요?" mean?
+    Korean in question: ['축구를', '연습하고', '싶어요']
+
+
+[489] Q: What does "기분이 어때요?" mean?
+    Korean in question: ['기분이', '어때요']
+
+
+============================================================
+  src/data/book2.ts
+============================================================
+
+[1] Q: What does 미안해요. mean?
+    Korean in question: ['미안해요']
+
+
+[2] Q: What does 부탁 드립니다. / 부탁 드려요. mean?
+    Korean in question: ['부탁', '드립니다', '부탁', '드려요']
+
+
+[3] Q: What does 잠깐만요. / 잠시만요. mean?
+    Korean in question: ['잠깐만요', '잠시만요']
+
+
+[4] Q: What does 좋은 하루 되세요. mean?
+    Korean in question: ['좋은', '하루', '되세요']
+
+
+[5] Q: What does 좋은 밤 되세요. mean?
+    Korean in question: ['좋은', '밤', '되세요']
+
+
+[6] Q: What does 안녕히 주무세요. / 잘 자요. mean?
+    Korean in question: ['안녕히', '주무세요', '잘', '자요']
+
+
+[7] Q: What does 축하합니다. mean?
+    Korean in question: ['축하합니다']
+
+
+[8] Q: What does 생일 축하합니다. mean?
+    Korean in question: ['생일', '축하합니다']
+
+
+[9] Q: What does 새해 복 많이 받으세요. mean?
+    Korean in question: ['새해', '복', '많이', '받으세요']
+
+
+[10] Q: What does 여섯 시에 도착할 거예요. mean?
+    Korean in question: ['여섯', '시에', '도착할', '거예요']
+
+
+[11] Q: What does 아침에 학교에 가요. mean?
+    Korean in question: ['아침에', '학교에', '가요']
+
+
+[12] Q: What does 책을 많이 읽어요? mean?
+    Korean in question: ['책을', '많이', '읽어요']
+
+
+[13] Q: What does 이것은 제 책이에요. mean?
+    Korean in question: ['이것은', '제', '책이에요']
+
+
+[14] Q: What does 고양이가 있어요. mean?
+    Korean in question: ['고양이가', '있어요']
+
+
+[15] Q: What does 한국 여자들은 예뻐요. mean?
+    Korean in question: ['한국', '여자들은', '예뻐요']
+
+
+[16] Q: What does 사람들이 많아요. mean?
+    Korean in question: ['사람들이', '많아요']
+
+
+[17] Q: What does 버스를 타고 싶어요. mean?
+    Korean in question: ['버스를', '타고', '싶어요']
+
+
+[18] Q: What does 술을 마시지 않아요. mean?
+    Korean in question: ['술을', '마시지', '않아요']
+
+
+[19] Q: What does 매운 음식을 먹어 봤어요. mean?
+    Korean in question: ['매운', '음식을', '먹어', '봤어요']
+
+
+[20] Q: What does 여섯 시에 도착할 겁니다. mean?
+    Korean in question: ['여섯', '시에', '도착할', '겁니다']
+
+
+[21] Q: What does 아침에 학교에 갑니다. mean?
+    Korean in question: ['아침에', '학교에', '갑니다']
+
+
+[22] Q: What does 책을 많이 읽습니까? mean?
+    Korean in question: ['책을', '많이', '읽습니까']
+
+
+[23] Q: What does 이것은 제 책입니다. mean?
+    Korean in question: ['이것은', '제', '책입니다']
+
+
+[24] Q: What does 고양이가 있습니다. mean?
+    Korean in question: ['고양이가', '있습니다']
+
+
+[25] Q: What does 한국 여자들이 예쁩니다. mean?
+    Korean in question: ['한국', '여자들이', '예쁩니다']
+
+
+[26] Q: What does 사람들이 많습니다. mean?
+    Korean in question: ['사람들이', '많습니다']
+
+
+[27] Q: What does 버스를 타고 싶습니다. mean?
+    Korean in question: ['버스를', '타고', '싶습니다']
+
+
+[28] Q: What does 술을 마시지 않습니다. mean?
+    Korean in question: ['술을', '마시지', '않습니다']
+
+
+[29] Q: What does 매운 음식을 먹어 봤습니다. mean?
+    Korean in question: ['매운', '음식을', '먹어', '봤습니다']
+
+
+[30] Q: What does 여섯 시에 도착할 거야. mean?
+    Korean in question: ['여섯', '시에', '도착할', '거야']
+
+
+[31] Q: What does 아침에 학교에 가. mean?
+    Korean in question: ['아침에', '학교에', '가']
+
+
+[32] Q: What does 책을 많이 읽어? mean?
+    Korean in question: ['책을', '많이', '읽어']
+
+
+[33] Q: What does 이거 내 책이야. mean?
+    Korean in question: ['이거', '내', '책이야']
+
+
+[34] Q: What does 고양이가 있어. mean?
+    Korean in question: ['고양이가', '있어']
+
+
+[35] Q: What does 한국 여자들이 예뻐. mean?
+    Korean in question: ['한국', '여자들이', '예뻐']
+
+
+[36] Q: What does 사람들이 많아. mean?
+    Korean in question: ['사람들이', '많아']
+
+
+[37] Q: What does 버스를 타고 싶어. mean?
+    Korean in question: ['버스를', '타고', '싶어']
+
+
+[38] Q: What does 술을 마시지 않아. mean?
+    Korean in question: ['술을', '마시지', '않아']
+
+
+[39] Q: What does 매운 음식을 먹어 봤어. mean?
+    Korean in question: ['매운', '음식을', '먹어', '봤어']
+
+
+[40] Q: What is added to the BASIC form to make 요 form?
+    Korean in question: ['요']
+
+
+[41] Q: When a stem has a 받침, what is added for formal polite?
+    Korean in question: ['받침']
+
+
+[42] Q: What is 존댓말?
+    Korean in question: ['존댓말']
+
+
+[43] Q: What does 매일 해요. mean?
+    Korean in question: ['매일', '해요']
+
+
+[44] Q: What does 내일 해요. mean?
+    Korean in question: ['내일', '해요']
+
+
+[45] Q: What does 할 거예요. mean?
+    Korean in question: ['할', '거예요']
+
+
+[46] Q: What does 하지 않아요. mean?
+    Korean in question: ['하지', '않아요']
+
+
+[47] Q: What does 하지 않았어요. mean?
+    Korean in question: ['하지', '않았어요']
+
+
+[48] Q: What does 하지 않을 거예요. mean?
+    Korean in question: ['하지', '않을', '거예요']
+
+
+[49] Q: What does 해 주세요. mean?
+    Korean in question: ['해', '주세요']
+
+
+[50] Q: What does 해! mean?
+    Korean in question: ['해']
+
+
+[51] Q: What does 해봐! mean?
+    Korean in question: ['해봐']
+
+
+[52] Q: What does 할까요? mean?
+    Korean in question: ['할까요']
+
+
+[53] Q: What does 합시다. / 하자. mean?
+    Korean in question: ['합시다', '하자']
+
+
+[54] Q: What does 하고 있어요. mean?
+    Korean in question: ['하고', '있어요']
+
+
+[55] Q: What does 하고 있었어요. mean?
+    Korean in question: ['하고', '있었어요']
+
+
+[56] Q: What does 하고 있지 않아요. mean?
+    Korean in question: ['하고', '있지', '않아요']
+
+
+[57] Q: What does 하고 있지 않았어요. mean?
+    Korean in question: ['하고', '있지', '않았어요']
+
+
+[58] Q: What does 하고 싶어요. mean?
+    Korean in question: ['하고', '싶어요']
+
+
+[59] Q: What does 하고 싶지 않아요. mean?
+    Korean in question: ['하고', '싶지', '않아요']
+
+
+[60] Q: What does 하고 싶지 않았어요. mean?
+    Korean in question: ['하고', '싶지', '않았어요']
+
+
+[61] Q: What does 예쁜 여자 mean?
+    Korean in question: ['예쁜', '여자']
+
+
+[62] Q: What does 큰 고양이 mean?
+    Korean in question: ['큰', '고양이']
+
+
+[63] Q: What does 긴 머리 mean?
+    Korean in question: ['긴', '머리']
+
+
+[64] Q: What does 짧은 치마 mean?
+    Korean in question: ['짧은', '치마']
+
+
+[65] Q: What does 재미있는 영화 mean?
+    Korean in question: ['재미있는', '영화']
+
+
+[66] Q: What does 맛있는 음식 mean?
+    Korean in question: ['맛있는', '음식']
+
+
+[67] Q: What does 버섯이 맛있다. mean?
+    Korean in question: ['버섯이', '맛있다']
+
+
+[68] Q: What does 케이크가 달다. mean?
+    Korean in question: ['케이크가', '달다']
+
+
+[69] Q: What does 귤이 쓰다. mean?
+    Korean in question: ['귤이', '쓰다']
+
+
+[70] Q: What does 차를 사다. mean?
+    Korean in question: ['차를', '사다']
+
+
+[71] Q: What does 김밥을 먹다. mean?
+    Korean in question: ['김밥을', '먹다']
+
+
+[72] Q: What does 주스를 마시다. mean?
+    Korean in question: ['주스를', '마시다']
+
+
+[73] Q: What does 영어를 하다. mean?
+    Korean in question: ['영어를', '하다']
+
+
+[74] Q: What does 저는 미국 사람입니다. mean?
+    Korean in question: ['저는', '미국', '사람입니다']
+
+
+[75] Q: What does 한국어는 어렵다. mean?
+    Korean in question: ['한국어는', '어렵다']
+
+
+[76] Q: What does 선생님은 똑똑하다. mean?
+    Korean in question: ['선생님은', '똑똑하다']
+
+
+[77] Q: What does 저______ 한국어______ 공부해요. mean?
+    Korean in question: ['저', '한국어', '공부해요']
+
+
+[78] Q: What does 아이폰______ 비싸요. mean?
+    Korean in question: ['아이폰', '비싸요']
+
+
+[79] Q: What does 친구______ 선물을 주었어요. mean?
+    Korean in question: ['친구', '선물을', '주었어요']
+
+
+[80] Q: What does 누구______ 갔어요? mean?
+    Korean in question: ['누구', '갔어요']
+
+
+[81] Q: What does 할머니______ 돈______ 받았어요. mean?
+    Korean in question: ['할머니', '돈', '받았어요']
+
+
+[82] Q: What does 저는 미국______ 왔어요. mean?
+    Korean in question: ['저는', '미국', '왔어요']
+
+
+[83] Q: What does 할아버지는 컴퓨터______ 몰라요. mean?
+    Korean in question: ['할아버지는', '컴퓨터', '몰라요']
+
+
+[84] Q: What does 이 책______ 재미있어요. mean?
+    Korean in question: ['이', '책', '재미있어요']
+
+
+[85] Q: What does 저는 한국어를 공부해요. mean?
+    Korean in question: ['저는', '한국어를', '공부해요']
+
+
+[86] Q: What does 아이폰도 비싸요. mean?
+    Korean in question: ['아이폰도', '비싸요']
+
+
+[87] Q: What does 저는 미국에서 왔어요. mean?
+    Korean in question: ['저는', '미국에서', '왔어요']
+
+
+[88] Q: What does 캘리포니아 날씨가 따뜻해요. mean?
+    Korean in question: ['캘리포니아', '날씨가', '따뜻해요']
+
+
+[89] Q: What does 싱가폴은 깨끗한 도시예요. mean?
+    Korean in question: ['싱가폴은', '깨끗한', '도시예요']
+
+
+[90] Q: What does 이 접시가 더러워요. mean?
+    Korean in question: ['이', '접시가', '더러워요']
+
+
+[91] Q: What does 언제 한국에 돌아와요? mean?
+    Korean in question: ['언제', '한국에', '돌아와요']
+
+
+[92] Q: What does 언제 한국에 돌아가요? mean?
+    Korean in question: ['언제', '한국에', '돌아가요']
+
+
+[93] Q: What does 목이 아파요. mean?
+    Korean in question: ['목이', '아파요']
+
+
+[94] Q: What does 책상에 무릎을 부딪쳤어요. mean?
+    Korean in question: ['책상에', '무릎을', '부딪쳤어요']
+
+
+[95] Q: What does 아버지의 어깨가 넓어요. mean?
+    Korean in question: ['아버지의', '어깨가', '넓어요']
+
+
+[96] Q: What does 제 팔꿈치가 골절됐어요. mean?
+    Korean in question: ['제', '팔꿈치가', '골절됐어요']
+
+
+[97] Q: What does 손목에는 손목시계를 차요. mean?
+    Korean in question: ['손목에는', '손목시계를', '차요']
+
+
+[98] Q: What does 내 발톱을 칠했어. mean?
+    Korean in question: ['내', '발톱을', '칠했어']
+
+
+[99] Q: What does 돈이 없어서… mean?
+    Korean in question: ['돈이', '없어서']
+
+
+[100] Q: What does 사람들이 많아서… mean?
+    Korean in question: ['사람들이', '많아서']
+
+
+[101] Q: What does 아침을 먹어서… mean?
+    Korean in question: ['아침을', '먹어서']
+
+
+[102] Q: What does 날씨가 추워서… mean?
+    Korean in question: ['날씨가', '추워서']
+
+
+[103] Q: What does 여름이라서 날씨가 더워요. mean?
+    Korean in question: ['여름이라서', '날씨가', '더워요']
+
+
+[104] Q: What does 친구가 기다려 줬어요. mean?
+    Korean in question: ['친구가', '기다려', '줬어요']
+
+
+[105] Q: What does 저는 선물을 샀어요. mean?
+    Korean in question: ['저는', '선물을', '샀어요']
+
+
+[106] Q: What does 친구가 해 주었어요. mean?
+    Korean in question: ['친구가', '해', '주었어요']
+
+
+[107] Q: What does 피곤해요? mean?
+    Korean in question: ['피곤해요']
+
+
+[108] Q: What does 동생이 컵을 깼어요. mean?
+    Korean in question: ['동생이', '컵을', '깼어요']
+
+
+[109] Q: What does 아이폰의 액정을 깼어요. mean?
+    Korean in question: ['아이폰의', '액정을', '깼어요']
+
+
+[110] Q: What does 할머니의 안경을 깼어요. mean?
+    Korean in question: ['할머니의', '안경을', '깼어요']
+
+
+[111] Q: What does 계란이 깨졌어요. mean?
+    Korean in question: ['계란이', '깨졌어요']
+
+
+[112] Q: What does 아이폰 액정이 깨졌어요. mean?
+    Korean in question: ['아이폰', '액정이', '깨졌어요']
+
+
+[113] Q: What does 학교에서 인형을 만들었어요. mean?
+    Korean in question: ['학교에서', '인형을', '만들었어요']
+
+
+[114] Q: What does 숙제가 어려워서 ____________요. mean?
+    Korean in question: ['숙제가', '어려워서', '요']
+
+
+[115] Q: What does 흰색 학은 예뻐요. mean?
+    Korean in question: ['흰색', '학은', '예뻐요']
+
+
+[116] Q: What does 기린의 목은 길어요. mean?
+    Korean in question: ['기린의', '목은', '길어요']
+
+
+[117] Q: What does 올빼미는 야행성 동물이에요. mean?
+    Korean in question: ['올빼미는', '야행성', '동물이에요']
+
+
+[118] Q: What does 돌고래는 똑똑한 동물이에요. mean?
+    Korean in question: ['돌고래는', '똑똑한', '동물이에요']
+
+
+[119] Q: What does 늑대는 개와 달라요. mean?
+    Korean in question: ['늑대는', '개와', '달라요']
+
+
+[120] Q: What does 앵무새는 시끄러워요. mean?
+    Korean in question: ['앵무새는', '시끄러워요']
+
+
+[121] Q: What does 동물원에는 동물이 많아요. mean?
+    Korean in question: ['동물원에는', '동물이', '많아요']
+
+
+[122] Q: What does 빨리 가요. (manner) mean?
+    Korean in question: ['빨리', '가요']
+
+
+[123] Q: What does 멀리 가요. (place) mean?
+    Korean in question: ['멀리', '가요']
+
+
+[124] Q: What does 일찍 가요. (time) mean?
+    Korean in question: ['일찍', '가요']
+
+
+[125] Q: What does 조금 가요. (degree) mean?
+    Korean in question: ['조금', '가요']
+
+
+[126] Q: What does 가끔 가요. (frequency) mean?
+    Korean in question: ['가끔', '가요']
+
+
+[127] Q: What does 근육이 커졌어요. mean?
+    Korean in question: ['근육이', '커졌어요']
+
+
+[128] Q: What does 컴퓨터가 비싸질 거예요. mean?
+    Korean in question: ['컴퓨터가', '비싸질', '거예요']
+
+
+[129] Q: What does 오늘은 추워질 거예요. mean?
+    Korean in question: ['오늘은', '추워질', '거예요']
+
+
+[130] Q: What does 여름에는 날씨가 더워져요. mean?
+    Korean in question: ['여름에는', '날씨가', '더워져요']
+
+
+[131] Q: What does 저는 야채만 먹어요. mean?
+    Korean in question: ['저는', '야채만', '먹어요']
+
+
+[132] Q: What does 조금만 먹었어요. mean?
+    Korean in question: ['조금만', '먹었어요']
+
+
+[133] Q: What does 물은 얼음이 됐어요. mean?
+    Korean in question: ['물은', '얼음이', '됐어요']
+
+
+[134] Q: What does 우리는 친구가 됐어요. mean?
+    Korean in question: ['우리는', '친구가', '됐어요']
+
+
+[135] Q: What does 길에서 달리지 마세요. mean?
+    Korean in question: ['길에서', '달리지', '마세요']
+
+
+[136] Q: What does 찾아 주세요. mean?
+    Korean in question: ['찾아', '주세요']
+
+
+[137] Q: What does 빨리 돌아오세요. mean?
+    Korean in question: ['빨리', '돌아오세요']
+
+
+[138] Q: What does 천천히 읽으세요. mean?
+    Korean in question: ['천천히', '읽으세요']
+
+
+[139] Q: What does 김밥을 만드세요. mean?
+    Korean in question: ['김밥을', '만드세요']
+
+
+[140] Q: What does 하늘에 구름이 많아요. mean?
+    Korean in question: ['하늘에', '구름이', '많아요']
+
+
+[141] Q: What does 개울에 올챙이가 살아요. mean?
+    Korean in question: ['개울에', '올챙이가', '살아요']
+
+
+[142] Q: What does 오늘 일몰이 예뻐요. mean?
+    Korean in question: ['오늘', '일몰이', '예뻐요']
+
+
+[143] Q: What does 시간이 많이 걸려요. mean?
+    Korean in question: ['시간이', '많이', '걸려요']
+
+
+[144] Q: What does 얼마나 걸려요? mean?
+    Korean in question: ['얼마나', '걸려요']
+
+
+[145] Q: What does 런던에 살아요. mean?
+    Korean in question: ['런던에', '살아요']
+
+
+[146] Q: What does 나무앞에서 쉬자! mean?
+    Korean in question: ['나무앞에서', '쉬자']
+
+
+[147] Q: What does 오 년 반 mean?
+    Korean in question: ['오', '년', '반']
+
+
+[148] Q: What does 사 주 반 mean?
+    Korean in question: ['사', '주', '반']
+
+
+[149] Q: What does 한 시간 반 mean?
+    Korean in question: ['한', '시간', '반']
+
+
+[150] Q: What does 이 분 반 mean?
+    Korean in question: ['이', '분', '반']
+
+
+[151] Q: What does 한 잔 반 mean?
+    Korean in question: ['한', '잔', '반']
+
+
+[152] Q: What does 삼 인분 반 mean?
+    Korean in question: ['삼', '인분', '반']
+
+
+[153] Q: What does 일곱 병 반 mean?
+    Korean in question: ['일곱', '병', '반']
+
+
+[154] Q: What does 삼촌이 자전거를 ___________요. mean?
+    Korean in question: ['삼촌이', '자전거를', '요']
+
+
+[155] Q: What does 비행기가 12____________에 출발했어요. mean?
+    Korean in question: ['비행기가', '에', '출발했어요']
+
+
+[156] Q: What does 주말에 바쁘다 mean?
+    Korean in question: ['주말에', '바쁘다']
+
+
+[157] Q: What does 영화가너무 재미있다 mean?
+    Korean in question: ['영화가너무', '재미있다']
+
+
+[158] Q: What does 배가 부르다 mean?
+    Korean in question: ['배가', '부르다']
+
+
+[159] Q: What does 수업이 없다 mean?
+    Korean in question: ['수업이', '없다']
+
+
+[160] Q: What does 날씨가 덥지 않다 mean?
+    Korean in question: ['날씨가', '덥지', '않다']
+
+
+[161] Q: What does 나중에 같이 영화를보자. mean?
+    Korean in question: ['나중에', '같이', '영화를보자']
+
+
+[162] Q: What does 이따가 은행에 가겠습니다. mean?
+    Korean in question: ['이따가', '은행에', '가겠습니다']
+
+
+[163] Q: What does 금요일까지 공부만 하겠어요. mean?
+    Korean in question: ['금요일까지', '공부만', '하겠어요']
+
+
+[164] Q: What does 맛있겠어요. mean?
+    Korean in question: ['맛있겠어요']
+
+
+[165] Q: What does 좋겠어요. mean?
+    Korean in question: ['좋겠어요']
+
+
+[166] Q: What does 비싸겠어요. mean?
+    Korean in question: ['비싸겠어요']
+
+
+[167] Q: What does 바쁘겠어요. mean?
+    Korean in question: ['바쁘겠어요']
+
+
+[168] Q: What does 잘 먹겠습니다. mean?
+    Korean in question: ['잘', '먹겠습니다']
+
+
+[169] Q: What does 모르겠어요. mean?
+    Korean in question: ['모르겠어요']
+
+
+[170] Q: What does 알겠어요. mean?
+    Korean in question: ['알겠어요']
+
+
+[171] Q: What does 지난 수업 mean?
+    Korean in question: ['지난', '수업']
+
+
+[172] Q: What does 다음 비행기 mean?
+    Korean in question: ['다음', '비행기']
+
+
+[173] Q: What does 이번 시험 mean?
+    Korean in question: ['이번', '시험']
+
+
+[174] Q: What does 지난 생일 mean?
+    Korean in question: ['지난', '생일']
+
+
+[175] Q: What does 다음 콘서트 mean?
+    Korean in question: ['다음', '콘서트']
+
+
+[176] Q: What does 이번 시합 mean?
+    Korean in question: ['이번', '시합']
+
+
+[177] Q: What does 왼쪽으로 갔어요. mean?
+    Korean in question: ['왼쪽으로', '갔어요']
+
+
+[178] Q: What does 오른쪽으로 가 주세요. mean?
+    Korean in question: ['오른쪽으로', '가', '주세요']
+
+
+[179] Q: What does 어디로 가겠습니까? mean?
+    Korean in question: ['어디로', '가겠습니까']
+
+
+[180] Q: What does 학원으로 가고 싶어요. mean?
+    Korean in question: ['학원으로', '가고', '싶어요']
+
+
+[181] Q: What does 학비가 얼마예요? mean?
+    Korean in question: ['학비가', '얼마예요']
+
+
+[182] Q: What does 버스비가 얼마였어요? mean?
+    Korean in question: ['버스비가', '얼마였어요']
+
+
+[183] Q: What does 현금이나 카드가 있어요? mean?
+    Korean in question: ['현금이나', '카드가', '있어요']
+
+
+[184] Q: What does 누가 왔거나 전화했어요? mean?
+    Korean in question: ['누가', '왔거나', '전화했어요']
+
+
+[185] Q: What does 쉬거나 자지 마세요. mean?
+    Korean in question: ['쉬거나', '자지', '마세요']
+
+
+[186] Q: What does 피자가 ___________요. mean?
+    Korean in question: ['피자가', '요']
+
+
+[187] Q: What does 담요 하나만 주세요. mean?
+    Korean in question: ['담요', '하나만', '주세요']
+
+
+[188] Q: What does 베개가 너무 높아요. mean?
+    Korean in question: ['베개가', '너무', '높아요']
+
+
+[189] Q: What does 새로운 전자레인지를 샀어요. mean?
+    Korean in question: ['새로운', '전자레인지를', '샀어요']
+
+
+[190] Q: What does 누구랑 약속이 있어요? mean?
+    Korean in question: ['누구랑', '약속이', '있어요']
+
+
+[191] Q: What does 엄마! 손님이 왔어요! mean?
+    Korean in question: ['엄마', '손님이', '왔어요']
+
+
+[192] Q: What does 손님, 몇 분이세요? mean?
+    Korean in question: ['손님', '몇', '분이세요']
+
+
+[193] Q: What does 어머니가 택시비를 냈어요. mean?
+    Korean in question: ['어머니가', '택시비를', '냈어요']
+
+
+[194] Q: What does 선생님에게 숙제를 냈어요. mean?
+    Korean in question: ['선생님에게', '숙제를', '냈어요']
+
+
+[195] Q: What does 친구하고 약속을 했어요. mean?
+    Korean in question: ['친구하고', '약속을', '했어요']
+
+
+[196] Q: What does 규칙을 지킵시다. mean?
+    Korean in question: ['규칙을', '지킵시다']
+
+
+[197] Q: What does 약속을 취소했어요. mean?
+    Korean in question: ['약속을', '취소했어요']
+
+
+[198] Q: What does 약속을 하다. mean?
+    Korean in question: ['약속을', '하다']
+
+
+[199] Q: What does 약속을 지키다. mean?
+    Korean in question: ['약속을', '지키다']
+
+
+[200] Q: What does 약속을 취소하다. mean?
+    Korean in question: ['약속을', '취소하다']
+
+
+[201] Q: What does 약속을 깨다. mean?
+    Korean in question: ['약속을', '깨다']
+
+
+[202] Q: What does 선생님이 수업을 계속했어요. mean?
+    Korean in question: ['선생님이', '수업을', '계속했어요']
+
+
+[203] Q: What does 뭐를 좋아해요? mean?
+    Korean in question: ['뭐를', '좋아해요']
+
+
+[204] Q: What does 무슨 음식을 좋아해요? mean?
+    Korean in question: ['무슨', '음식을', '좋아해요']
+
+
+[205] Q: What does 무슨 영화가재미있어요? mean?
+    Korean in question: ['무슨', '영화가재미있어요']
+
+
+[206] Q: What does 무엇을 좋아해요? mean?
+    Korean in question: ['무엇을', '좋아해요']
+
+
+[207] Q: What does 무엇이 재미있어요? mean?
+    Korean in question: ['무엇이', '재미있어요']
+
+
+[208] Q: What does 오래된 수건을 버렸어요. mean?
+    Korean in question: ['오래된', '수건을', '버렸어요']
+
+
+[209] Q: What does 비누를 떨어뜨리지 마세요. mean?
+    Korean in question: ['비누를', '떨어뜨리지', '마세요']
+
+
+[210] Q: What does 샴푸가 눈에 들어갔어요. mean?
+    Korean in question: ['샴푸가', '눈에', '들어갔어요']
+
+
+[211] Q: What does 싱크대에 반지가 떨어졌어요. mean?
+    Korean in question: ['싱크대에', '반지가', '떨어졌어요']
+
+
+[212] Q: What does 화장지가 없어요! mean?
+    Korean in question: ['화장지가', '없어요']
+
+
+[213] Q: What does 저는 슬퍼요. mean?
+    Korean in question: ['저는', '슬퍼요']
+
+
+[214] Q: What does 준호 씨가 슬퍼해요? mean?
+    Korean in question: ['준호', '씨가', '슬퍼해요']
+
+
+[215] Q: What does 준호 씨가 슬퍼해요. mean?
+    Korean in question: ['준호', '씨가', '슬퍼해요']
+
+
+[216] Q: What does 혼자는 외로워요. mean?
+    Korean in question: ['혼자는', '외로워요']
+
+
+[217] Q: What does 우리 가족은 행복해요. mean?
+    Korean in question: ['우리', '가족은', '행복해요']
+
+
+[218] Q: What does 남편과의 결혼생활은 행복했어요. mean?
+    Korean in question: ['남편과의', '결혼생활은', '행복했어요']
+
+
+[219] Q: What does 그녀는 항상 행복해해요. mean?
+    Korean in question: ['그녀는', '항상', '행복해해요']
+
+
+[220] Q: What does 우울한 하루였어요. mean?
+    Korean in question: ['우울한', '하루였어요']
+
+
+[221] Q: What does 저는 선생님이 무서워요. mean?
+    Korean in question: ['저는', '선생님이', '무서워요']
+
+
+[222] Q: What does 이 선생님은 무서워요. mean?
+    Korean in question: ['이', '선생님은', '무서워요']
+
+
+[223] Q: What does 남동생이 귀신을 무서워해요. mean?
+    Korean in question: ['남동생이', '귀신을', '무서워해요']
+
+
+[224] Q: What does 귀신을 무서워하지 마세요. mean?
+    Korean in question: ['귀신을', '무서워하지', '마세요']
+
+
+[225] Q: What does 귀신이 무서워요. mean?
+    Korean in question: ['귀신이', '무서워요']
+
+
+[226] Q: What does 동물이 무서워요. mean?
+    Korean in question: ['동물이', '무서워요']
+
+
+[227] Q: What does 동물이 무서워해요. mean?
+    Korean in question: ['동물이', '무서워해요']
+
+
+[228] Q: What does 친구가 공포영화를무서워해요. mean?
+    Korean in question: ['친구가', '공포영화를무서워해요']
+
+
+[229] Q: What does 공포영화는 무서워요. mean?
+    Korean in question: ['공포영화는', '무서워요']
+
+
+[230] Q: What does 전쟁은 무서워요. mean?
+    Korean in question: ['전쟁은', '무서워요']
+
+
+[231] Q: What does 그는 나에게 화를냈어요. mean?
+    Korean in question: ['그는', '나에게', '화를냈어요']
+
+
+[232] Q: What does 사장님은 매일 화를내요. mean?
+    Korean in question: ['사장님은', '매일', '화를내요']
+
+
+[233] Q: What does 그녀와 자주 싸워요. mean?
+    Korean in question: ['그녀와', '자주', '싸워요']
+
+
+[234] Q: What does 어제 누나랑 싸웠어요. mean?
+    Korean in question: ['어제', '누나랑', '싸웠어요']
+
+
+[235] Q: What does 남자들은 전쟁터에서 싸웠어요. mean?
+    Korean in question: ['남자들은', '전쟁터에서', '싸웠어요']
+
+
+[236] Q: What does 남편과 화해했어요. mean?
+    Korean in question: ['남편과', '화해했어요']
+
+
+[237] Q: What does 사촌과 화해할 거예요. mean?
+    Korean in question: ['사촌과', '화해할', '거예요']
+
+
+[238] Q: What does 제 잘못을 사과했어요. mean?
+    Korean in question: ['제', '잘못을', '사과했어요']
+
+
+[239] Q: What does 오빠에게 사과할 거예요. mean?
+    Korean in question: ['오빠에게', '사과할', '거예요']
+
+
+[240] Q: What does 너무 늦어서 사과했어요. mean?
+    Korean in question: ['너무', '늦어서', '사과했어요']
+
+
+[241] Q: What does 왜 갑자기 ____________요? mean?
+    Korean in question: ['왜', '갑자기', '요']
+
+
+[242] Q: What does 결혼생활이 ____________요? mean?
+    Korean in question: ['결혼생활이', '요']
+
+
+[243] Q: What does 아이가 컵을 깼어요. mean?
+    Korean in question: ['아이가', '컵을', '깼어요']
+
+
+[244] Q: What does 반찬이 너무 많아요. mean?
+    Korean in question: ['반찬이', '너무', '많아요']
+
+
+[245] Q: What does 어떤 디저트를 좋아하세요? mean?
+    Korean in question: ['어떤', '디저트를', '좋아하세요']
+
+
+[246] Q: What does 작은 고양이를 잡았어요. mean?
+    Korean in question: ['작은', '고양이를', '잡았어요']
+
+
+[247] Q: What does 경찰이 범죄자를 잡았어요. mean?
+    Korean in question: ['경찰이', '범죄자를', '잡았어요']
+
+
+[248] Q: What does 산이 보였어요. mean?
+    Korean in question: ['산이', '보였어요']
+
+
+[249] Q: What does 길에서 호수가 보여요. mean?
+    Korean in question: ['길에서', '호수가', '보여요']
+
+
+[250] Q: What does 선생님은 행복해 보여요. mean?
+    Korean in question: ['선생님은', '행복해', '보여요']
+
+
+[251] Q: What does 반지가 비싸 보여요. mean?
+    Korean in question: ['반지가', '비싸', '보여요']
+
+
+[252] Q: What does 영화가재미있어 보여요. mean?
+    Korean in question: ['영화가재미있어', '보여요']
+
+
+[253] Q: What does 제가 엄마를 안았어요. mean?
+    Korean in question: ['제가', '엄마를', '안았어요']
+
+
+[254] Q: What does 고양이를 안고 싶어요. mean?
+    Korean in question: ['고양이를', '안고', '싶어요']
+
+
+[255] Q: What does 할머니가 아기를 안았어요. mean?
+    Korean in question: ['할머니가', '아기를', '안았어요']
+
+
+[256] Q: What does 식사를 준비했어요. mean?
+    Korean in question: ['식사를', '준비했어요']
+
+
+[257] Q: What does 식사가 준비됐어요. mean?
+    Korean in question: ['식사가', '준비됐어요']
+
+
+[258] Q: What does 선생님은 시험을 준비했어요. mean?
+    Korean in question: ['선생님은', '시험을', '준비했어요']
+
+
+[259] Q: What does 학생들은 준비됐어요. mean?
+    Korean in question: ['학생들은', '준비됐어요']
+
+
+[260] Q: What does 방을 준비했어요. mean?
+    Korean in question: ['방을', '준비했어요']
+
+
+[261] Q: What does 방이 준비됐어요. mean?
+    Korean in question: ['방이', '준비됐어요']
+
+
+[262] Q: What does 정부가 전쟁을 계속했어요. mean?
+    Korean in question: ['정부가', '전쟁을', '계속했어요']
+
+
+[263] Q: What does 전쟁이 계속됐어요. mean?
+    Korean in question: ['전쟁이', '계속됐어요']
+
+
+[264] Q: What does 폭풍이 계속될 거예요. mean?
+    Korean in question: ['폭풍이', '계속될', '거예요']
+
+
+[265] Q: What does 이 노래는 오래됐어요. mean?
+    Korean in question: ['이', '노래는', '오래됐어요']
+
+
+[266] Q: What does 노래방___________ 준비됐어요. mean?
+    Korean in question: ['노래방', '준비됐어요']
+
+
+[267] Q: What does 영화가계속___________. mean?
+    Korean in question: ['영화가계속']
+
+
+[268] Q: What does 작은 고양이____________ 잡았어요. mean?
+    Korean in question: ['작은', '고양이', '잡았어요']
+
+
+[269] Q: What does 친구의 어머니가 ____________요. mean?
+    Korean in question: ['친구의', '어머니가', '요']
+
+
+[270] Q: What does 제 처방전을 잃어버렸어요. mean?
+    Korean in question: ['제', '처방전을', '잃어버렸어요']
+
+
+[271] Q: What does 새로운 항생제가 나왔어요. mean?
+    Korean in question: ['새로운', '항생제가', '나왔어요']
+
+
+[272] Q: What does 안구건조증에는 안약이 좋아요. mean?
+    Korean in question: ['안구건조증에는', '안약이', '좋아요']
+
+
+[273] Q: What does 주사는 무섭지만 필요해요. mean?
+    Korean in question: ['주사는', '무섭지만', '필요해요']
+
+
+[274] Q: What does 날마다 커피를 마셔요. mean?
+    Korean in question: ['날마다', '커피를', '마셔요']
+
+
+[275] Q: What does 날마다 부모님한테 전화해요. mean?
+    Korean in question: ['날마다', '부모님한테', '전화해요']
+
+
+[276] Q: What does 가지만… mean?
+    Korean in question: ['가지만']
+
+
+[277] Q: What does 춥지만… mean?
+    Korean in question: ['춥지만']
+
+
+[278] Q: What does 피곤하지만… mean?
+    Korean in question: ['피곤하지만']
+
+
+[279] Q: What does 비싸지만… mean?
+    Korean in question: ['비싸지만']
+
+
+[280] Q: What does 더럽지만… mean?
+    Korean in question: ['더럽지만']
+
+
+[281] Q: What does 아프지만… mean?
+    Korean in question: ['아프지만']
+
+
+[282] Q: What does 갔지만… mean?
+    Korean in question: ['갔지만']
+
+
+[283] Q: What does 추웠지만… mean?
+    Korean in question: ['추웠지만']
+
+
+[284] Q: What does 비쌌지만… mean?
+    Korean in question: ['비쌌지만']
+
+
+[285] Q: What does 더러웠지만… mean?
+    Korean in question: ['더러웠지만']
+
+
+[286] Q: What does 아팠지만… mean?
+    Korean in question: ['아팠지만']
+
+
+[287] Q: What does 가고 싶지만… mean?
+    Korean in question: ['가고', '싶지만']
+
+
+[288] Q: What does 춥지 않지만… mean?
+    Korean in question: ['춥지', '않지만']
+
+
+[289] Q: What does 비싸지 않았지만… mean?
+    Korean in question: ['비싸지', '않았지만']
+
+
+[290] Q: What does 더러워지지만… mean?
+    Korean in question: ['더러워지지만']
+
+
+[291] Q: What does 아플 거지만… mean?
+    Korean in question: ['아플', '거지만']
+
+
+[292] Q: What does 공부하고 싶지 않지만 mean?
+    Korean in question: ['공부하고', '싶지', '않지만']
+
+
+[293] Q: What does 저는 북쪽에 살아요. mean?
+    Korean in question: ['저는', '북쪽에', '살아요']
+
+
+[294] Q: What does 오른쪽으로 가세요. mean?
+    Korean in question: ['오른쪽으로', '가세요']
+
+
+[295] Q: What does 뒤쪽에서 쉬세요. mean?
+    Korean in question: ['뒤쪽에서', '쉬세요']
+
+
+[296] Q: What does 서울쪽으로 운전하고 있어요. mean?
+    Korean in question: ['서울쪽으로', '운전하고', '있어요']
+
+
+[297] Q: What does 선생님이 학생을 가르쳤어요. mean?
+    Korean in question: ['선생님이', '학생을', '가르쳤어요']
+
+
+[298] Q: What does 전화번호를 가르쳐 주세요. mean?
+    Korean in question: ['전화번호를', '가르쳐', '주세요']
+
+
+[299] Q: What does 시간이 늦었어요. mean?
+    Korean in question: ['시간이', '늦었어요']
+
+
+[300] Q: What does 제프가 늦었어요. mean?
+    Korean in question: ['제프가', '늦었어요']
+
+
+[301] Q: What does 약속을 잊어버리지 마세요. mean?
+    Korean in question: ['약속을', '잊어버리지', '마세요']
+
+
+[302] Q: What does 지갑을 잃어버렸어요. mean?
+    Korean in question: ['지갑을', '잃어버렸어요']
+
+
+[303] Q: What does 친구랑 약속을 잊어버렸어요. mean?
+    Korean in question: ['친구랑', '약속을', '잊어버렸어요']
+
+
+[304] Q: What does 집에서 지갑을 놓고왔어요. mean?
+    Korean in question: ['집에서', '지갑을', '놓고왔어요']
+
+
+[305] Q: What does 이것은 정말 가벼워요. mean?
+    Korean in question: ['이것은', '정말', '가벼워요']
+
+
+[306] Q: What does 아, 무거워! mean?
+    Korean in question: ['아', '무거워']
+
+
+[307] Q: What does 그 물고기가 무거워요. mean?
+    Korean in question: ['그', '물고기가', '무거워요']
+
+
+[308] Q: What does 눈이 무거워졌어요. mean?
+    Korean in question: ['눈이', '무거워졌어요']
+
+
+[309] Q: What does 캐나다 사람들은 친절해요. mean?
+    Korean in question: ['캐나다', '사람들은', '친절해요']
+
+
+[310] Q: What does 친절한 선생님을 좋아해요. mean?
+    Korean in question: ['친절한', '선생님을', '좋아해요']
+
+
+[311] Q: What does 그 사람이 불친절해요. mean?
+    Korean in question: ['그', '사람이', '불친절해요']
+
+
+[312] Q: What does 아빠가 저에게 불친절해요. mean?
+    Korean in question: ['아빠가', '저에게', '불친절해요']
+
+
+[313] Q: What does 너를 보고 싶어! mean?
+    Korean in question: ['너를', '보고', '싶어']
+
+
+[314] Q: What does 사촌은 언어를 ___________요. mean?
+    Korean in question: ['사촌은', '언어를', '요']
+
+
+[315] Q: What does 대한민국 사람들은 진짜____________요. mean?
+    Korean in question: ['대한민국', '사람들은', '진짜', '요']
+
+
+[316] Q: What does 당신의 전공이 뭐예요? mean?
+    Korean in question: ['당신의', '전공이', '뭐예요']
+
+
+[317] Q: What does 먹고 갈 거예요. mean?
+    Korean in question: ['먹고', '갈', '거예요']
+
+
+[318] Q: What does 먹고 갔어요. mean?
+    Korean in question: ['먹고', '갔어요']
+
+
+[319] Q: What does 먹고 가고 싶어요. mean?
+    Korean in question: ['먹고', '가고', '싶어요']
+
+
+[320] Q: What does 들 거예요. mean?
+    Korean in question: ['들', '거예요']
+
+
+[321] Q: What does 이 의자는 편해요. mean?
+    Korean in question: ['이', '의자는', '편해요']
+
+
+[322] Q: What does 어느 시간이 편하세요? mean?
+    Korean in question: ['어느', '시간이', '편하세요']
+
+
+[323] Q: What does 떡볶이는 맵고 달아요. mean?
+    Korean in question: ['떡볶이는', '맵고', '달아요']
+
+
+[324] Q: What does 한국 산은 아름다워요. mean?
+    Korean in question: ['한국', '산은', '아름다워요']
+
+
+[325] Q: What does 제니퍼는 낚시를 싫어해요. mean?
+    Korean in question: ['제니퍼는', '낚시를', '싫어해요']
+
+
+[326] Q: What does 등산은 몸에 좋아요. mean?
+    Korean in question: ['등산은', '몸에', '좋아요']
+
+
+[327] Q: What does 뭘 먹고 싶어요? mean?
+    Korean in question: ['뭘', '먹고', '싶어요']
+
+
+[328] Q: What does 이게 뭐예요? mean?
+    Korean in question: ['이게', '뭐예요']
+
+
+[329] Q: What does 어디를 구경하고 싶어요? mean?
+    Korean in question: ['어디를', '구경하고', '싶어요']
+
+
+[330] Q: What does 한국에는 차가 많아요. mean?
+    Korean in question: ['한국에는', '차가', '많아요']
+
+
+[331] Q: What does 이건 얼마예요? mean?
+    Korean in question: ['이건', '얼마예요']
+
+
+[332] Q: What does 왜 울어요? mean?
+    Korean in question: ['왜', '울어요']
+
+
+[333] Q: What does 울지 마세요! mean?
+    Korean in question: ['울지', '마세요']
+
+
+[334] Q: What does 오늘은 덥네요. mean?
+    Korean in question: ['오늘은', '덥네요']
+
+
+[335] Q: What does 그는 키가 크네요. mean?
+    Korean in question: ['그는', '키가', '크네요']
+
+
+[336] Q: What does 올해부터 학비가 비싸지네요! mean?
+    Korean in question: ['올해부터', '학비가', '비싸지네요']
+
+
+[337] Q: What does 갑자기 비가 왔네요. mean?
+    Korean in question: ['갑자기', '비가', '왔네요']
+
+
+[338] Q: What does 한국어는 정말 어렵네요. mean?
+    Korean in question: ['한국어는', '정말', '어렵네요']
+
+
+[339] Q: What does 선생님, 오늘 예쁘네요. mean?
+    Korean in question: ['선생님', '오늘', '예쁘네요']
+
+
+[340] Q: What does 원을 제대로 그리세요. mean?
+    Korean in question: ['원을', '제대로', '그리세요']
+
+
+[341] Q: What does 삼각김밥은 삼각형이에요. mean?
+    Korean in question: ['삼각김밥은', '삼각형이에요']
+
+
+[342] Q: What does 종이를 오각형으로 접으세요 mean?
+    Korean in question: ['종이를', '오각형으로', '접으세요']
+
+
+[343] Q: What does 싸이는 미국에서도 유명해요. mean?
+    Korean in question: ['싸이는', '미국에서도', '유명해요']
+
+
+[344] Q: What does 커피숍에서 케이크도 팔아요. mean?
+    Korean in question: ['커피숍에서', '케이크도', '팔아요']
+
+
+[345] Q: What does 나쵸를 치즈에 찍었어요. mean?
+    Korean in question: ['나쵸를', '치즈에', '찍었어요']
+
+
+[346] Q: What does 설날에는 윷놀이를 해요. mean?
+    Korean in question: ['설날에는', '윷놀이를', '해요']
+
+
+[347] Q: What does 보기 전 mean?
+    Korean in question: ['보기', '전']
+
+
+[348] Q: What does 가기 전 mean?
+    Korean in question: ['가기', '전']
+
+
+[349] Q: What does 먹기 전 mean?
+    Korean in question: ['먹기', '전']
+
+
+[350] Q: What does 끝나기 전 mean?
+    Korean in question: ['끝나기', '전']
+
+
+[351] Q: What does 조지는 갑자기 멋있어졌어요. mean?
+    Korean in question: ['조지는', '갑자기', '멋있어졌어요']
+
+
+[352] Q: What does 둘이 사귀어요? mean?
+    Korean in question: ['둘이', '사귀어요']
+
+
+[353] Q: What does 많은 요리사는 통통해요. mean?
+    Korean in question: ['많은', '요리사는', '통통해요']
+
+
+============================================================
+  src/data/book3.ts
+============================================================
+
+[1] Q: What does 처음 뵙겠습니다. mean?
+    Korean in question: ['처음', '뵙겠습니다']
+
+
+[2] Q: What does 오랜만이에요. mean?
+    Korean in question: ['오랜만이에요']
+
+
+[3] Q: What does 와 주셔서 감사합니다. mean?
+    Korean in question: ['와', '주셔서', '감사합니다']
+
+
+[4] Q: What does 나중에 뵙겠습니다. mean?
+    Korean in question: ['나중에', '뵙겠습니다']
+
+
+[5] Q: What does 어쩔 수 없었어요. mean?
+    Korean in question: ['어쩔', '수', '없었어요']
+
+
+[6] Q: What does 죽었다 깨어나도 못합니다. mean?
+    Korean in question: ['죽었다', '깨어나도', '못합니다']
+
+
+[7] Q: What does 폐를 끼쳐 송구스럽습니다. mean?
+    Korean in question: ['폐를', '끼쳐', '송구스럽습니다']
+
+
+[8] Q: What does 새치기 하지 마세요. mean?
+    Korean in question: ['새치기', '하지', '마세요']
+
+
+[9] Q: What does 바가지 씌우지 마세요. mean?
+    Korean in question: ['바가지', '씌우지', '마세요']
+
+
+[10] Q: What does 잠그 mean?
+    Korean in question: ['잠그']
+
+
+[11] Q: What does 다르 mean?
+    Korean in question: ['다르']
+
+
+[12] Q: What does 머무르 mean?
+    Korean in question: ['머무르']
+
+
+[13] Q: What does 매일 해요. mean?
+    Korean in question: ['매일', '해요']
+
+
+[14] Q: What does 내일 해요. mean?
+    Korean in question: ['내일', '해요']
+
+
+[15] Q: What does 할 거예요. mean?
+    Korean in question: ['할', '거예요']
+
+
+[16] Q: What does 했어요. mean?
+    Korean in question: ['했어요']
+
+
+[17] Q: What does 하지 않아요. mean?
+    Korean in question: ['하지', '않아요']
+
+
+[18] Q: What does 하지 않았어요. mean?
+    Korean in question: ['하지', '않았어요']
+
+
+[19] Q: What does 하지 않을 거예요. mean?
+    Korean in question: ['하지', '않을', '거예요']
+
+
+[20] Q: What does 해 주세요. mean?
+    Korean in question: ['해', '주세요']
+
+
+[21] Q: What does 해! mean?
+    Korean in question: ['해']
+
+
+[22] Q: What does 해봐! mean?
+    Korean in question: ['해봐']
+
+
+[23] Q: What does 할까요? mean?
+    Korean in question: ['할까요']
+
+
+[24] Q: What does 합시다. / 하자. mean?
+    Korean in question: ['합시다', '하자']
+
+
+[25] Q: What does 하고 있어요. mean?
+    Korean in question: ['하고', '있어요']
+
+
+[26] Q: What does 하고 있었어요. mean?
+    Korean in question: ['하고', '있었어요']
+
+
+[27] Q: What does 하고 있지 않아요. mean?
+    Korean in question: ['하고', '있지', '않아요']
+
+
+[28] Q: What does 하고 있지 않았어요. mean?
+    Korean in question: ['하고', '있지', '않았어요']
+
+
+[29] Q: What does 하고 싶어요. mean?
+    Korean in question: ['하고', '싶어요']
+
+
+[30] Q: What does 하고 싶었어요. mean?
+    Korean in question: ['하고', '싶었어요']
+
+
+[31] Q: What does 하고 싶지 않았어요. mean?
+    Korean in question: ['하고', '싶지', '않았어요']
+
+
+[32] Q: What does 할 수 있어요. mean?
+    Korean in question: ['할', '수', '있어요']
+
+
+[33] Q: What does 할 수 없어요. mean?
+    Korean in question: ['할', '수', '없어요']
+
+
+[34] Q: What does 날씨가 점점 더워져요. mean?
+    Korean in question: ['날씨가', '점점', '더워져요']
+
+
+[35] Q: What does 여동생이 슬퍼해요. mean?
+    Korean in question: ['여동생이', '슬퍼해요']
+
+
+[36] Q: What does 하세요 mean?
+    Korean in question: ['하세요']
+
+
+[37] Q: What does 하겠어요 mean?
+    Korean in question: ['하겠어요']
+
+
+[38] Q: What does 하겠습니다 mean?
+    Korean in question: ['하겠습니다']
+
+
+[39] Q: What does 하겠습니까 mean?
+    Korean in question: ['하겠습니까']
+
+
+[40] Q: What does 비싸네요 mean?
+    Korean in question: ['비싸네요']
+
+
+[41] Q: What does 할 게요 mean?
+    Korean in question: ['할', '게요']
+
+
+[42] Q: What does 먹을 음식이 사과예요. mean?
+    Korean in question: ['먹을', '음식이', '사과예요']
+
+
+[43] Q: What does 먹는 음식이 사과예요. mean?
+    Korean in question: ['먹는', '음식이', '사과예요']
+
+
+[44] Q: What does 먹은 음식이 사과였어요. mean?
+    Korean in question: ['먹은', '음식이', '사과였어요']
+
+
+[45] Q: What does 가기 전에 연락하세요. mean?
+    Korean in question: ['가기', '전에', '연락하세요']
+
+
+[46] Q: What does 간 후에 연락하세요. mean?
+    Korean in question: ['간', '후에', '연락하세요']
+
+
+[47] Q: What does 큰 고양이 mean?
+    Korean in question: ['큰', '고양이']
+
+
+[48] Q: What does 작은 개 mean?
+    Korean in question: ['작은', '개']
+
+
+[49] Q: What does 긴 머리 mean?
+    Korean in question: ['긴', '머리']
+
+
+[50] Q: What does 짧은 치마 mean?
+    Korean in question: ['짧은', '치마']
+
+
+[51] Q: What does 재미있는 영화 mean?
+    Korean in question: ['재미있는', '영화']
+
+
+[52] Q: What does 이것은 저의 차예요. mean?
+    Korean in question: ['이것은', '저의', '차예요']
+
+
+[53] Q: What does 이것은 조지의 차예요. mean?
+    Korean in question: ['이것은', '조지의', '차예요']
+
+
+[54] Q: What does 한국의 정부 mean?
+    Korean in question: ['한국의', '정부']
+
+
+[55] Q: What does 음식의 맛 mean?
+    Korean in question: ['음식의', '맛']
+
+
+[56] Q: What does 겨울의 날씨 mean?
+    Korean in question: ['겨울의', '날씨']
+
+
+[57] Q: What does 치마의 색깔 mean?
+    Korean in question: ['치마의', '색깔']
+
+
+[58] Q: What does 오빠 mean?
+    Korean in question: ['오빠']
+
+
+[59] Q: What does 언니 mean?
+    Korean in question: ['언니']
+
+
+[60] Q: What does 동생, 남동생 mean?
+    Korean in question: ['동생', '남동생']
+
+
+[61] Q: What does 외할아버지 mean?
+    Korean in question: ['외할아버지']
+
+
+[62] Q: What does 외할머니 mean?
+    Korean in question: ['외할머니']
+
+
+[63] Q: What does 아버지 mean?
+    Korean in question: ['아버지']
+
+
+[64] Q: What does 선배 mean?
+    Korean in question: ['선배']
+
+
+[65] Q: What does 아저씨 mean?
+    Korean in question: ['아저씨']
+
+
+[66] Q: What does 후배 mean?
+    Korean in question: ['후배']
+
+
+[67] Q: What does 삼촌 * mean?
+    Korean in question: ['삼촌']
+
+
+[68] Q: What does 총각 mean?
+    Korean in question: ['총각']
+
+
+[69] Q: What does 아줌마 mean?
+    Korean in question: ['아줌마']
+
+
+[70] Q: What does 이모 * mean?
+    Korean in question: ['이모']
+
+
+[71] Q: What does 형 (men say) mean?
+    Korean in question: ['형']
+
+
+[72] Q: What does 아가씨 mean?
+    Korean in question: ['아가씨']
+
+
+[73] Q: What does 처녀 mean?
+    Korean in question: ['처녀']
+
+
+[74] Q: What does 누나 (   ) mean?
+    Korean in question: ['누나']
+
+
+[75] Q: What does 오래 mean?
+    Korean in question: ['오래']
+
+
+[76] Q: What does 생기다 mean?
+    Korean in question: ['생기다']
+
+
+[77] Q: What does 나중에 mean?
+    Korean in question: ['나중에']
+
+
+[78] Q: What does 나라 mean?
+    Korean in question: ['나라']
+
+
+[79] Q: What does 높임말 mean?
+    Korean in question: ['높임말']
+
+
+[80] Q: What does 존댓말 mean?
+    Korean in question: ['존댓말']
+
+
+[81] Q: What does 반말 mean?
+    Korean in question: ['반말']
+
+
+[82] Q: What does 가시다 mean?
+    Korean in question: ['가시다']
+
+
+[83] Q: What does 오시다 mean?
+    Korean in question: ['오시다']
+
+
+[84] Q: What does 키가 크시다 mean?
+    Korean in question: ['키가', '크시다']
+
+
+[85] Q: What does 태어나시다 mean?
+    Korean in question: ['태어나시다']
+
+
+[86] Q: What does 가르치시다 mean?
+    Korean in question: ['가르치시다']
+
+
+[87] Q: What does 께서(는) mean?
+    Korean in question: ['께서', '는']
+
+
+[88] Q: What does 진지 mean?
+    Korean in question: ['진지']
+
+
+[89] Q: What does 성함 mean?
+    Korean in question: ['성함']
+
+
+[90] Q: What does 연세 mean?
+    Korean in question: ['연세']
+
+
+[91] Q: What does 생신 mean?
+    Korean in question: ['생신']
+
+
+[92] Q: What does 말씀 mean?
+    Korean in question: ['말씀']
+
+
+[93] Q: What does 병환 mean?
+    Korean in question: ['병환']
+
+
+[94] Q: What does 저희 mean?
+    Korean in question: ['저희']
+
+
+[95] Q: What does 한국어를 잘 읽으시네요! mean?
+    Korean in question: ['한국어를', '잘', '읽으시네요']
+
+
+[96] Q: What does 드시다 mean?
+    Korean in question: ['드시다']
+
+
+[97] Q: What does 말씀하다 mean?
+    Korean in question: ['말씀하다']
+
+
+[98] Q: What does 편찮다 mean?
+    Korean in question: ['편찮다']
+
+
+[99] Q: What does 주무시다 mean?
+    Korean in question: ['주무시다']
+
+
+[100] Q: What does 뵙다 mean?
+    Korean in question: ['뵙다']
+
+
+[101] Q: What does 계시다 mean?
+    Korean in question: ['계시다']
+
+
+[102] Q: What does 할아버지는 도서관에 계셨어요. mean?
+    Korean in question: ['할아버지는', '도서관에', '계셨어요']
+
+
+[103] Q: What does 할머니는 병원에 계세요. mean?
+    Korean in question: ['할머니는', '병원에', '계세요']
+
+
+[104] Q: What does 한국어 잘 하시네요! mean?
+    Korean in question: ['한국어', '잘', '하시네요']
+
+
+[105] Q: What does 삼촌께 선물을 드렸어요. mean?
+    Korean in question: ['삼촌께', '선물을', '드렸어요']
+
+
+[106] Q: What does 우산 mean?
+    Korean in question: ['우산']
+
+
+[107] Q: What does 헬스장 mean?
+    Korean in question: ['헬스장']
+
+
+[108] Q: What does 정신 mean?
+    Korean in question: ['정신']
+
+
+[109] Q: What does 냄새 mean?
+    Korean in question: ['냄새']
+
+
+[110] Q: What does 햇빛 mean?
+    Korean in question: ['햇빛']
+
+
+[111] Q: What does 눈빛 mean?
+    Korean in question: ['눈빛']
+
+
+[112] Q: What does 휴가 mean?
+    Korean in question: ['휴가']
+
+
+[113] Q: What does 휴식 mean?
+    Korean in question: ['휴식']
+
+
+[114] Q: What does 먼저 mean?
+    Korean in question: ['먼저']
+
+
+[115] Q: What does 계획 mean?
+    Korean in question: ['계획']
+
+
+[116] Q: What does 어리다 mean?
+    Korean in question: ['어리다']
+
+
+[117] Q: What does 강하다 mean?
+    Korean in question: ['강하다']
+
+
+[118] Q: What does 약하다 mean?
+    Korean in question: ['약하다']
+
+
+[119] Q: What does 부럽다 mean?
+    Korean in question: ['부럽다']
+
+
+[120] Q: What does 놀라다 mean?
+    Korean in question: ['놀라다']
+
+
+[121] Q: What does 기억하다 mean?
+    Korean in question: ['기억하다']
+
+
+[122] Q: What does 서다 mean?
+    Korean in question: ['서다']
+
+
+[123] Q: What does 앉다 mean?
+    Korean in question: ['앉다']
+
+
+[124] Q: What does 했을 때 mean?
+    Korean in question: ['했을', '때']
+
+
+[125] Q: What does 할 때 mean?
+    Korean in question: ['할', '때']
+
+
+[126] Q: What does 안 할 때 mean?
+    Korean in question: ['안', '할', '때']
+
+
+[127] Q: What does 하지 않을 때 mean?
+    Korean in question: ['하지', '않을', '때']
+
+
+[128] Q: What does 하지 않았을 때 mean?
+    Korean in question: ['하지', '않았을', '때']
+
+
+[129] Q: What does 하고 싶을 때 mean?
+    Korean in question: ['하고', '싶을', '때']
+
+
+[130] Q: What does 어려 mean?
+    Korean in question: ['어려']
+
+
+[131] Q: What does 이 방은 답답해요. mean?
+    Korean in question: ['이', '방은', '답답해요']
+
+
+[132] Q: What does 저는 리드가 부러워요. mean?
+    Korean in question: ['저는', '리드가', '부러워요']
+
+
+[133] Q: What does 리드가 부러워해요. mean?
+    Korean in question: ['리드가', '부러워해요']
+
+
+[134] Q: What does 리드가 조지를 부러워해요. mean?
+    Korean in question: ['리드가', '조지를', '부러워해요']
+
+
+[135] Q: What does 의자에 앉았어요. mean?
+    Korean in question: ['의자에', '앉았어요']
+
+
+[136] Q: What does 생일 때 mean?
+    Korean in question: ['생일', '때']
+
+
+[137] Q: What does 회의 때 mean?
+    Korean in question: ['회의', '때']
+
+
+[138] Q: What does 그때는 깜짝 놀랐어요. mean?
+    Korean in question: ['그때는', '깜짝', '놀랐어요']
+
+
+[139] Q: What does 에밀리가 제니퍼를 ___________요. mean?
+    Korean in question: ['에밀리가', '제니퍼를', '요']
+
+
+[140] Q: What does 사무실 mean?
+    Korean in question: ['사무실']
+
+
+[141] Q: What does 월급 mean?
+    Korean in question: ['월급']
+
+
+[142] Q: What does 출근 mean?
+    Korean in question: ['출근']
+
+
+[143] Q: What does 퇴근 mean?
+    Korean in question: ['퇴근']
+
+
+[144] Q: What does 회의 mean?
+    Korean in question: ['회의']
+
+
+[145] Q: What does 발표 mean?
+    Korean in question: ['발표']
+
+
+[146] Q: What does 출장 mean?
+    Korean in question: ['출장']
+
+
+[147] Q: What does 퇴직 mean?
+    Korean in question: ['퇴직']
+
+
+[148] Q: What does 출근하다 mean?
+    Korean in question: ['출근하다']
+
+
+[149] Q: What does 퇴근하다 mean?
+    Korean in question: ['퇴근하다']
+
+
+[150] Q: What does 회의하다 mean?
+    Korean in question: ['회의하다']
+
+
+[151] Q: What does 발표하다 mean?
+    Korean in question: ['발표하다']
+
+
+[152] Q: What does 퇴직하다 mean?
+    Korean in question: ['퇴직하다']
+
+
+[153] Q: What does 저는 회의가 싫어요. mean?
+    Korean in question: ['저는', '회의가', '싫어요']
+
+
+[154] Q: What does 매출 mean?
+    Korean in question: ['매출']
+
+
+[155] Q: What does 몇 시에 퇴근해요? mean?
+    Korean in question: ['몇', '시에', '퇴근해요']
+
+
+[156] Q: What does 어떻게 mean?
+    Korean in question: ['어떻게']
+
+
+[157] Q: What does 아직도 mean?
+    Korean in question: ['아직도']
+
+
+[158] Q: What does 연말 mean?
+    Korean in question: ['연말']
+
+
+[159] Q: What does 주소 mean?
+    Korean in question: ['주소']
+
+
+[160] Q: What does 삼겹살 mean?
+    Korean in question: ['삼겹살']
+
+
+[161] Q: What does 스타일 mean?
+    Korean in question: ['스타일']
+
+
+[162] Q: What does 바보 mean?
+    Korean in question: ['바보']
+
+
+[163] Q: What does 열심히 mean?
+    Korean in question: ['열심히']
+
+
+[164] Q: What does 멍청하다 mean?
+    Korean in question: ['멍청하다']
+
+
+[165] Q: What does 딱딱하다 mean?
+    Korean in question: ['딱딱하다']
+
+
+[166] Q: What does 부드럽다 mean?
+    Korean in question: ['부드럽다']
+
+
+[167] Q: What does 위험하다 mean?
+    Korean in question: ['위험하다']
+
+
+[168] Q: What does 안전하다 mean?
+    Korean in question: ['안전하다']
+
+
+[169] Q: What does 입학하다 mean?
+    Korean in question: ['입학하다']
+
+
+[170] Q: What does 졸업하다 mean?
+    Korean in question: ['졸업하다']
+
+
+[171] Q: What does 다니다 mean?
+    Korean in question: ['다니다']
+
+
+[172] Q: What does 스키를 타다 mean?
+    Korean in question: ['스키를', '타다']
+
+
+[173] Q: What does 가면 mean?
+    Korean in question: ['가면']
+
+
+[174] Q: What does 먹으면 mean?
+    Korean in question: ['먹으면']
+
+
+[175] Q: What does 하면 mean?
+    Korean in question: ['하면']
+
+
+[176] Q: What does 알면 mean?
+    Korean in question: ['알면']
+
+
+[177] Q: What does 들으면 mean?
+    Korean in question: ['들으면']
+
+
+[178] Q: What does 모르면 mean?
+    Korean in question: ['모르면']
+
+
+[179] Q: What does 안 하면 mean?
+    Korean in question: ['안', '하면']
+
+
+[180] Q: What does 하지 않으면 mean?
+    Korean in question: ['하지', '않으면']
+
+
+[181] Q: What does 하지 않았으면 mean?
+    Korean in question: ['하지', '않았으면']
+
+
+[182] Q: What does 하고 있으면 mean?
+    Korean in question: ['하고', '있으면']
+
+
+[183] Q: What does 하고 싶으면 mean?
+    Korean in question: ['하고', '싶으면']
+
+
+[184] Q: What does 하고 싶지 않으면 mean?
+    Korean in question: ['하고', '싶지', '않으면']
+
+
+[185] Q: What does 첫 번째 mean?
+    Korean in question: ['첫', '번째']
+
+
+[186] Q: What does 세 번째 mean?
+    Korean in question: ['세', '번째']
+
+
+[187] Q: What does 네 번째 mean?
+    Korean in question: ['네', '번째']
+
+
+[188] Q: What does 다섯 번째 mean?
+    Korean in question: ['다섯', '번째']
+
+
+[189] Q: What does 일곱 번째 mean?
+    Korean in question: ['일곱', '번째']
+
+
+[190] Q: What does 여덟 번째 mean?
+    Korean in question: ['여덟', '번째']
+
+
+[191] Q: What does 아홉 번째 mean?
+    Korean in question: ['아홉', '번째']
+
+
+[192] Q: What does 열 번째 mean?
+    Korean in question: ['열', '번째']
+
+
+[193] Q: What does 몇 번째 mean?
+    Korean in question: ['몇', '번째']
+
+
+[194] Q: What does 멍청해 mean?
+    Korean in question: ['멍청해']
+
+
+[195] Q: What does 부드러워 mean?
+    Korean in question: ['부드러워']
+
+
+[196] Q: What does 안전해 mean?
+    Korean in question: ['안전해']
+
+
+[197] Q: What does 졸업해 mean?
+    Korean in question: ['졸업해']
+
+
+[198] Q: What does 이름은 어떻게 써요? mean?
+    Korean in question: ['이름은', '어떻게', '써요']
+
+
+[199] Q: What does 불고기를 어떻게 만들어요? mean?
+    Korean in question: ['불고기를', '어떻게', '만들어요']
+
+
+[200] Q: What does 어떻게 한국어를 배웠어요? mean?
+    Korean in question: ['어떻게', '한국어를', '배웠어요']
+
+
+[201] Q: What does 어떻게 강남역에 가요? mean?
+    Korean in question: ['어떻게', '강남역에', '가요']
+
+
+[202] Q: What does 현금 mean?
+    Korean in question: ['현금']
+
+
+[203] Q: What does 수표 mean?
+    Korean in question: ['수표']
+
+
+[204] Q: What does 입금★ mean?
+    Korean in question: ['입금']
+
+
+[205] Q: What does 예금인출★ mean?
+    Korean in question: ['예금인출']
+
+
+[206] Q: What does 이체★ mean?
+    Korean in question: ['이체']
+
+
+[207] Q: What does 통장 mean?
+    Korean in question: ['통장']
+
+
+[208] Q: What does 계좌 mean?
+    Korean in question: ['계좌']
+
+
+[209] Q: What does 수수료 mean?
+    Korean in question: ['수수료']
+
+
+[210] Q: What does 비밀번호 mean?
+    Korean in question: ['비밀번호']
+
+
+[211] Q: What does 수표로 계산하고 싶어요. mean?
+    Korean in question: ['수표로', '계산하고', '싶어요']
+
+
+[212] Q: What does 저에게 계좌번호를 가르쳐주세요. mean?
+    Korean in question: ['저에게', '계좌번호를', '가르쳐주세요']
+
+
+[213] Q: What does 실패 mean?
+    Korean in question: ['실패']
+
+
+[214] Q: What does 실수 mean?
+    Korean in question: ['실수']
+
+
+[215] Q: What does 후회 mean?
+    Korean in question: ['후회']
+
+
+[216] Q: What does 취업 mean?
+    Korean in question: ['취업']
+
+
+[217] Q: What does 사업 mean?
+    Korean in question: ['사업']
+
+
+[218] Q: What does 성공 mean?
+    Korean in question: ['성공']
+
+
+[219] Q: What does 이혼 mean?
+    Korean in question: ['이혼']
+
+
+[220] Q: What does 약혼 mean?
+    Korean in question: ['약혼']
+
+
+[221] Q: What does 생각 mean?
+    Korean in question: ['생각']
+
+
+[222] Q: What does 아니면 mean?
+    Korean in question: ['아니면']
+
+
+[223] Q: What does 생각하다 mean?
+    Korean in question: ['생각하다']
+
+
+[224] Q: What does 시험을 보다 mean?
+    Korean in question: ['시험을', '보다']
+
+
+[225] Q: What does 축하하다 mean?
+    Korean in question: ['축하하다']
+
+
+[226] Q: What does 떠나다 mean?
+    Korean in question: ['떠나다']
+
+
+[227] Q: What does 먹으러 가다 mean?
+    Korean in question: ['먹으러', '가다']
+
+
+[228] Q: What does 마시러 가다 mean?
+    Korean in question: ['마시러', '가다']
+
+
+[229] Q: What does 공부하러 가다 mean?
+    Korean in question: ['공부하러', '가다']
+
+
+[230] Q: What does 살러 가다 mean?
+    Korean in question: ['살러', '가다']
+
+
+[231] Q: What does 타러 가다 mean?
+    Korean in question: ['타러', '가다']
+
+
+[232] Q: What does 구경하러 오다 mean?
+    Korean in question: ['구경하러', '오다']
+
+
+[233] Q: What does 가르치러 오다 mean?
+    Korean in question: ['가르치러', '오다']
+
+
+[234] Q: What does 놀러 오다 mean?
+    Korean in question: ['놀러', '오다']
+
+
+[235] Q: What does 보러 오다 mean?
+    Korean in question: ['보러', '오다']
+
+
+[236] Q: What does 영어 mean?
+    Korean in question: ['영어']
+
+
+[237] Q: What does 한국말 mean?
+    Korean in question: ['한국말']
+
+
+[238] Q: What does 중국말 mean?
+    Korean in question: ['중국말']
+
+
+[239] Q: What does 프랑스말 mean?
+    Korean in question: ['프랑스말']
+
+
+[240] Q: What does 태국말 mean?
+    Korean in question: ['태국말']
+
+
+[241] Q: What does 스페인말 mean?
+    Korean in question: ['스페인말']
+
+
+[242] Q: What does 일본말 mean?
+    Korean in question: ['일본말']
+
+
+[243] Q: What does 영어 잘 하시네요! mean?
+    Korean in question: ['영어', '잘', '하시네요']
+
+
+[244] Q: What does 스페인어를 공부하고 있어요. mean?
+    Korean in question: ['스페인어를', '공부하고', '있어요']
+
+
+[245] Q: What does 태국말을 아세요? mean?
+    Korean in question: ['태국말을', '아세요']
+
+
+[246] Q: What does 프랑스말은 어려워요. mean?
+    Korean in question: ['프랑스말은', '어려워요']
+
+
+[247] Q: What does 결혼을 생각해요. mean?
+    Korean in question: ['결혼을', '생각해요']
+
+
+[248] Q: What does 실패하다 mean?
+    Korean in question: ['실패하다']
+
+
+[249] Q: What does 실수하다 mean?
+    Korean in question: ['실수하다']
+
+
+[250] Q: What does 후회하다 mean?
+    Korean in question: ['후회하다']
+
+
+[251] Q: What does 취업하다 mean?
+    Korean in question: ['취업하다']
+
+
+[252] Q: What does 사업하다 mean?
+    Korean in question: ['사업하다']
+
+
+[253] Q: What does 성공하다 mean?
+    Korean in question: ['성공하다']
+
+
+[254] Q: What does 이혼하다 mean?
+    Korean in question: ['이혼하다']
+
+
+[255] Q: What does 약혼하다 mean?
+    Korean in question: ['약혼하다']
+
+
+[256] Q: What does 실패는 성공의 어머니입니다. mean?
+    Korean in question: ['실패는', '성공의', '어머니입니다']
+
+
+[257] Q: What does 축하해 mean?
+    Korean in question: ['축하해']
+
+
+[258] Q: What does 축하합니다!! mean?
+    Korean in question: ['축하합니다']
+
+
+[259] Q: What does 생일 축하합니다!! mean?
+    Korean in question: ['생일', '축하합니다']
+
+
+[260] Q: What does 삼촌은 아침에 떠났어요. mean?
+    Korean in question: ['삼촌은', '아침에', '떠났어요']
+
+
+[261] Q: What does 생신 is the mean?
+    Korean in question: ['생신']
+
+
+[262] Q: What does 스키를 ___________까요? mean?
+    Korean in question: ['스키를', '까요']
+
+
+[263] Q: What does 장미 mean?
+    Korean in question: ['장미']
+
+
+[264] Q: What does 튤립 mean?
+    Korean in question: ['튤립']
+
+
+[265] Q: What does 유채꽃 mean?
+    Korean in question: ['유채꽃']
+
+
+[266] Q: What does 국화 mean?
+    Korean in question: ['국화']
+
+
+[267] Q: What does 백합 mean?
+    Korean in question: ['백합']
+
+
+[268] Q: What does 나팔꽃 mean?
+    Korean in question: ['나팔꽃']
+
+
+[269] Q: What does 벚꽃 mean?
+    Korean in question: ['벚꽃']
+
+
+[270] Q: What does 민들레 mean?
+    Korean in question: ['민들레']
+
+
+[271] Q: What does 선인장 mean?
+    Korean in question: ['선인장']
+
+
+[272] Q: What does 무궁화 mean?
+    Korean in question: ['무궁화']
+
+
+[273] Q: What does 대나무 mean?
+    Korean in question: ['대나무']
+
+
+[274] Q: What does 참나무 mean?
+    Korean in question: ['참나무']
+
+
+[275] Q: What does 소나무 mean?
+    Korean in question: ['소나무']
+
+
+[276] Q: What does 벚나무 mean?
+    Korean in question: ['벚나무']
+
+
+[277] Q: What does 전나무 mean?
+    Korean in question: ['전나무']
+
+
+[278] Q: What does 백합은 순결의 상징이예요. mean?
+    Korean in question: ['백합은', '순결의', '상징이예요']
+
+
+[279] Q: What does 딸기 mean?
+    Korean in question: ['딸기']
+
+
+[280] Q: What does 방학 mean?
+    Korean in question: ['방학']
+
+
+[281] Q: What does 집안일 mean?
+    Korean in question: ['집안일']
+
+
+[282] Q: What does 초등학교 mean?
+    Korean in question: ['초등학교']
+
+
+[283] Q: What does 고등학교 mean?
+    Korean in question: ['고등학교']
+
+
+[284] Q: What does 출구 mean?
+    Korean in question: ['출구']
+
+
+[285] Q: What does 친척 mean?
+    Korean in question: ['친척']
+
+
+[286] Q: What does 훨씬 mean?
+    Korean in question: ['훨씬']
+
+
+[287] Q: What does 오래 mean?
+    Korean in question: ['오래']
+
+
+[288] Q: What does 심심하다 mean?
+    Korean in question: ['심심하다']
+
+
+[289] Q: What does 지루하다 mean?
+    Korean in question: ['지루하다']
+
+
+[290] Q: What does 엄격하다 mean?
+    Korean in question: ['엄격하다']
+
+
+[291] Q: What does 높다 mean?
+    Korean in question: ['높다']
+
+
+[292] Q: What does 낮다 mean?
+    Korean in question: ['낮다']
+
+
+[293] Q: What does 고르다 mean?
+    Korean in question: ['고르다']
+
+
+[294] Q: What does 청소를 하다 mean?
+    Korean in question: ['청소를', '하다']
+
+
+[295] Q: What does 갈아타다 mean?
+    Korean in question: ['갈아타다']
+
+
+[296] Q: What does 심심해서 노래를 불렀어요. mean?
+    Korean in question: ['심심해서', '노래를', '불렀어요']
+
+
+[297] Q: What does 엄격해 mean?
+    Korean in question: ['엄격해']
+
+
+[298] Q: What does 낮아 mean?
+    Korean in question: ['낮아']
+
+
+[299] Q: What does 골라 mean?
+    Korean in question: ['골라']
+
+
+[300] Q: What does 청소를 해 mean?
+    Korean in question: ['청소를', '해']
+
+
+[301] Q: What does 갈아타 mean?
+    Korean in question: ['갈아타']
+
+
+[302] Q: What does 사동역에서 갈아타세요. mean?
+    Korean in question: ['사동역에서', '갈아타세요']
+
+
+[303] Q: What does 누워 mean?
+    Korean in question: ['누워']
+
+
+[304] Q: What does 성별 mean?
+    Korean in question: ['성별']
+
+
+[305] Q: What does 부부 mean?
+    Korean in question: ['부부']
+
+
+[306] Q: What does 안타깝다 mean?
+    Korean in question: ['안타깝다']
+
+
+[307] Q: What does 이기다 mean?
+    Korean in question: ['이기다']
+
+
+[308] Q: What does 지다 mean?
+    Korean in question: ['지다']
+
+
+[309] Q: What does 오픈카 mean?
+    Korean in question: ['오픈카']
+
+
+[310] Q: What does 핸드폰 mean?
+    Korean in question: ['핸드폰']
+
+
+[311] Q: What does 셀카 mean?
+    Korean in question: ['셀카']
+
+
+[312] Q: What does 남자일 것 같아요. mean?
+    Korean in question: ['남자일', '것', '같아요']
+
+
+[313] Q: What does 남자인 것 같아요. mean?
+    Korean in question: ['남자인', '것', '같아요']
+
+
+[314] Q: What does 좋을 것 같아요. mean?
+    Korean in question: ['좋을', '것', '같아요']
+
+
+[315] Q: What does 좋은 것 같아요. mean?
+    Korean in question: ['좋은', '것', '같아요']
+
+
+[316] Q: What does 좋은 줄 알았어요. mean?
+    Korean in question: ['좋은', '줄', '알았어요']
+
+
+[317] Q: What does 도착하는 것 같아요. mean?
+    Korean in question: ['도착하는', '것', '같아요']
+
+
+[318] Q: What does 것 같아요. mean?
+    Korean in question: ['것', '같아요']
+
+
+[319] Q: What does 알았어요. mean?
+    Korean in question: ['알았어요']
+
+
+[320] Q: What does 가격 mean?
+    Korean in question: ['가격']
+
+
+[321] Q: What does 술집 mean?
+    Korean in question: ['술집']
+
+
+[322] Q: What does 평일 mean?
+    Korean in question: ['평일']
+
+
+[323] Q: What does 전 세계 mean?
+    Korean in question: ['전', '세계']
+
+
+[324] Q: What does 삼성 mean?
+    Korean in question: ['삼성']
+
+
+[325] Q: What does 애플 mean?
+    Korean in question: ['애플']
+
+
+[326] Q: What does 동료 mean?
+    Korean in question: ['동료']
+
+
+[327] Q: What does 빌 게이츠 mean?
+    Korean in question: ['빌', '게이츠']
+
+
+[328] Q: What does 재산 mean?
+    Korean in question: ['재산']
+
+
+[329] Q: What does 드디어 mean?
+    Korean in question: ['드디어']
+
+
+[330] Q: What does 출근하다 mean?
+    Korean in question: ['출근하다']
+
+
+[331] Q: What does 퇴근하다 mean?
+    Korean in question: ['퇴근하다']
+
+
+[332] Q: What does 출퇴근하다 mean?
+    Korean in question: ['출퇴근하다']
+
+
+[333] Q: What does 팔리다 mean?
+    Korean in question: ['팔리다']
+
+
+[334] Q: What does 벌다 mean?
+    Korean in question: ['벌다']
+
+
+[335] Q: What does 쓰다 mean?
+    Korean in question: ['쓰다']
+
+
+[336] Q: What does 감기에 걸리다 mean?
+    Korean in question: ['감기에', '걸리다']
+
+
+[337] Q: What does 출퇴근해 mean?
+    Korean in question: ['출퇴근해']
+
+
+[338] Q: What does 새 차 mean?
+    Korean in question: ['새', '차']
+
+
+[339] Q: What does 새 옷 mean?
+    Korean in question: ['새', '옷']
+
+
+[340] Q: What does 새로운 차 mean?
+    Korean in question: ['새로운', '차']
+
+
+[341] Q: What does 새로운 옷 mean?
+    Korean in question: ['새로운', '옷']
+
+
+[342] Q: What does 새로 산 차 mean?
+    Korean in question: ['새로', '산', '차']
+
+
+[343] Q: What does 먹다  먹을래(요)? mean?
+    Korean in question: ['먹다', '먹을래', '요']
+
+
+[344] Q: What does 가다  갈래(요)? mean?
+    Korean in question: ['가다', '갈래', '요']
+
+
+[345] Q: What does 보다  볼래(요)? mean?
+    Korean in question: ['보다', '볼래', '요']
+
+
+[346] Q: What does 하다  할래(요)? mean?
+    Korean in question: ['하다', '할래', '요']
+
+
+[347] Q: What does 듣다  들래(요)? mean?
+    Korean in question: ['듣다', '들래', '요']
+
+
+[348] Q: What does 놀다  놀래(요)? mean?
+    Korean in question: ['놀다', '놀래', '요']
+
+
+[349] Q: What does 마시다  마실래(요)? mean?
+    Korean in question: ['마시다', '마실래', '요']
+
+
+[350] Q: What does 죽다  죽을래(요)? mean?
+    Korean in question: ['죽다', '죽을래', '요']
+
+
+[351] Q: What does 동안 with events mean?
+    Korean in question: ['동안']
+
+
+[352] Q: What does 때 is used. mean?
+    Korean in question: ['때']
+
+
+[353] Q: What does 했으면 좋겠다 mean?
+    Korean in question: ['했으면', '좋겠다']
+
+
+[354] Q: What does 건강 mean?
+    Korean in question: ['건강']
+
+
+[355] Q: What does 취미 mean?
+    Korean in question: ['취미']
+
+
+[356] Q: What does 악기 mean?
+    Korean in question: ['악기']
+
+
+[357] Q: What does 소설 mean?
+    Korean in question: ['소설']
+
+
+[358] Q: What does 유리 mean?
+    Korean in question: ['유리']
+
+
+[359] Q: What does 종이 mean?
+    Korean in question: ['종이']
+
+
+[360] Q: What does 팬케이크 mean?
+    Korean in question: ['팬케이크']
+
+
+[361] Q: What does 퍼즐 mean?
+    Korean in question: ['퍼즐']
+
+
+[362] Q: What does 고속도로 mean?
+    Korean in question: ['고속도로']
+
+
+[363] Q: What does 간단하다 mean?
+    Korean in question: ['간단하다']
+
+
+[364] Q: What does 치다 mean?
+    Korean in question: ['치다']
+
+
+[365] Q: What does 불다 mean?
+    Korean in question: ['불다']
+
+
+[366] Q: What does 연주하다 mean?
+    Korean in question: ['연주하다']
+
+
+[367] Q: What does 금지하다 mean?
+    Korean in question: ['금지하다']
+
+
+[368] Q: What does 허가하다 mean?
+    Korean in question: ['허가하다']
+
+
+[369] Q: What does 사용하다 mean?
+    Korean in question: ['사용하다']
+
+
+[370] Q: What does 인쇄하다 mean?
+    Korean in question: ['인쇄하다']
+
+
+[371] Q: What does 사는 것 mean?
+    Korean in question: ['사는', '것']
+
+
+[372] Q: What does 하는 것 mean?
+    Korean in question: ['하는', '것']
+
+
+[373] Q: What does 읽는 것 mean?
+    Korean in question: ['읽는', '것']
+
+
+[374] Q: What does 있는 것 mean?
+    Korean in question: ['있는', '것']
+
+
+[375] Q: What does 자는 것 mean?
+    Korean in question: ['자는', '것']
+
+
+[376] Q: What does 소설을 읽는 것 mean?
+    Korean in question: ['소설을', '읽는', '것']
+
+
+[377] Q: What does 혼자서 수영하는 것 mean?
+    Korean in question: ['혼자서', '수영하는', '것']
+
+
+[378] Q: What does 버스를 타는 것 mean?
+    Korean in question: ['버스를', '타는', '것']
+
+
+[379] Q: What does 음악을 듣는 것 mean?
+    Korean in question: ['음악을', '듣는', '것']
+
+
+[380] Q: What does 수영하는 것이 재미있어요. mean?
+    Korean in question: ['수영하는', '것이', '재미있어요']
+
+
+[381] Q: What does 수영하는 것은 취미예요. mean?
+    Korean in question: ['수영하는', '것은', '취미예요']
+
+
+[382] Q: What does 수영하는 것을 좋아해요. mean?
+    Korean in question: ['수영하는', '것을', '좋아해요']
+
+
+[383] Q: What does 수영하는 것보다 안전해요. mean?
+    Korean in question: ['수영하는', '것보다', '안전해요']
+
+
+[384] Q: What does 허가해 mean?
+    Korean in question: ['허가해']
+
+
+[385] Q: What does 인쇄해 mean?
+    Korean in question: ['인쇄해']
+
+
+[386] Q: What does 사용해 mean?
+    Korean in question: ['사용해']
+
+
+[387] Q: What does 간단해 mean?
+    Korean in question: ['간단해']
+
+
+[388] Q: What does 한국어는 간단하지 않아요. mean?
+    Korean in question: ['한국어는', '간단하지', '않아요']
+
+
+[389] Q: What does 부 means “portion”. mean?
+    Korean in question: ['부']
+
+
+[390] Q: What does 이용하다 is mean?
+    Korean in question: ['이용하다']
+
+
+[391] Q: What does 모자 mean?
+    Korean in question: ['모자']
+
+
+[392] Q: What does 바지 mean?
+    Korean in question: ['바지']
+
+
+[393] Q: What does 장갑 mean?
+    Korean in question: ['장갑']
+
+
+[394] Q: What does 속옷 mean?
+    Korean in question: ['속옷']
+
+
+[395] Q: What does 원피스 mean?
+    Korean in question: ['원피스']
+
+
+[396] Q: What does 코트 mean?
+    Korean in question: ['코트']
+
+
+[397] Q: What does 드레스 mean?
+    Korean in question: ['드레스']
+
+
+[398] Q: What does 셔츠 mean?
+    Korean in question: ['셔츠']
+
+
+[399] Q: What does 넥타이 mean?
+    Korean in question: ['넥타이']
+
+
+[400] Q: What does 머리 띠 mean?
+    Korean in question: ['머리', '띠']
+
+
+[401] Q: What does 팔찌 mean?
+    Korean in question: ['팔찌']
+
+
+[402] Q: What does 목도리 mean?
+    Korean in question: ['목도리']
+
+
+[403] Q: What does 안경 mean?
+    Korean in question: ['안경']
+
+
+[404] Q: What does 벨트 mean?
+    Korean in question: ['벨트']
+
+
+[405] Q: What does 마스크 mean?
+    Korean in question: ['마스크']
+
+
+[406] Q: What does 반지 mean?
+    Korean in question: ['반지']
+
+
+[407] Q: What does 겨울에는 목도리를 사용하세요. mean?
+    Korean in question: ['겨울에는', '목도리를', '사용하세요']
+
+
+[408] Q: What does 안경을 바꿀때가 됐어요. mean?
+    Korean in question: ['안경을', '바꿀때가', '됐어요']
+
+
+[409] Q: What does 향수 mean?
+    Korean in question: ['향수']
+
+
+[410] Q: What does 결혼반지 mean?
+    Korean in question: ['결혼반지']
+
+
+[411] Q: What does 렌즈 mean?
+    Korean in question: ['렌즈']
+
+
+[412] Q: What does 신발 끈 mean?
+    Korean in question: ['신발', '끈']
+
+
+[413] Q: What does 구두 mean?
+    Korean in question: ['구두']
+
+
+[414] Q: What does 시계 mean?
+    Korean in question: ['시계']
+
+
+[415] Q: What does 생일날 mean?
+    Korean in question: ['생일날']
+
+
+[416] Q: What does 입다 mean?
+    Korean in question: ['입다']
+
+
+[417] Q: What does 쓰다 mean?
+    Korean in question: ['쓰다']
+
+
+[418] Q: What does 매다 mean?
+    Korean in question: ['매다']
+
+
+[419] Q: What does 착용하다 mean?
+    Korean in question: ['착용하다']
+
+
+[420] Q: What does 끼다 mean?
+    Korean in question: ['끼다']
+
+
+[421] Q: What does 신다 mean?
+    Korean in question: ['신다']
+
+
+[422] Q: What does 차다 mean?
+    Korean in question: ['차다']
+
+
+[423] Q: What does 뿌리다 mean?
+    Korean in question: ['뿌리다']
+
+
+[424] Q: What does 지우다 mean?
+    Korean in question: ['지우다']
+
+
+[425] Q: What does 벗다 mean?
+    Korean in question: ['벗다']
+
+
+[426] Q: What does 빼다 mean?
+    Korean in question: ['빼다']
+
+
+[427] Q: What does 풀다 mean?
+    Korean in question: ['풀다']
+
+
+[428] Q: What does 입어 mean?
+    Korean in question: ['입어']
+
+
+[429] Q: What does 신어 mean?
+    Korean in question: ['신어']
+
+
+[430] Q: What does 매다 vs 착용하다 mean?
+    Korean in question: ['매다', '착용하다']
+
+
+[431] Q: What does 넥타이 mean?
+    Korean in question: ['넥타이']
+
+
+[432] Q: What does 안전벨트 mean?
+    Korean in question: ['안전벨트']
+
+
+[433] Q: What does 헬멧 mean?
+    Korean in question: ['헬멧']
+
+
+[434] Q: What does 마스크 mean?
+    Korean in question: ['마스크']
+
+
+[435] Q: What does 옷고름 mean?
+    Korean in question: ['옷고름']
+
+
+[436] Q: What does 회사에 가요 mean?
+    Korean in question: ['회사에', '가요']
+
+
+[437] Q: What does 뿌려 mean?
+    Korean in question: ['뿌려']
+
+
+[438] Q: What does 벗어 mean?
+    Korean in question: ['벗어']
+
+
+[439] Q: What does 풀어 mean?
+    Korean in question: ['풀어']
+
+
+[440] Q: What does 지워 mean?
+    Korean in question: ['지워']
+
+
+[441] Q: What does 어떤 향수를 ___________요? mean?
+    Korean in question: ['어떤', '향수를', '요']
+
+
+[442] Q: What does 감기 mean?
+    Korean in question: ['감기']
+
+
+[443] Q: What does 두통 mean?
+    Korean in question: ['두통']
+
+
+[444] Q: What does 몸살 mean?
+    Korean in question: ['몸살']
+
+
+[445] Q: What does 당뇨병 mean?
+    Korean in question: ['당뇨병']
+
+
+[446] Q: What does 폐렴 mean?
+    Korean in question: ['폐렴']
+
+
+[447] Q: What does 빈혈 mean?
+    Korean in question: ['빈혈']
+
+
+[448] Q: What does 심장병 mean?
+    Korean in question: ['심장병']
+
+
+[449] Q: What does 기침 mean?
+    Korean in question: ['기침']
+
+
+[450] Q: What does 콧물 mean?
+    Korean in question: ['콧물']
+
+
+[451] Q: What does 전염병 mean?
+    Korean in question: ['전염병']
+
+
+[452] Q: What does 영양실조 mean?
+    Korean in question: ['영양실조']
+
+
+[453] Q: What does 타박상 mean?
+    Korean in question: ['타박상']
+
+
+[454] Q: What does 설사 mean?
+    Korean in question: ['설사']
+
+
+[455] Q: What does 메스꺼움 mean?
+    Korean in question: ['메스꺼움']
+
+
+[456] Q: What does 지급일 mean?
+    Korean in question: ['지급일']
+
+
+[457] Q: What does 근처 mean?
+    Korean in question: ['근처']
+
+
+[458] Q: What does 공기 mean?
+    Korean in question: ['공기']
+
+
+[459] Q: What does 뉴스 mean?
+    Korean in question: ['뉴스']
+
+
+[460] Q: What does 점원 mean?
+    Korean in question: ['점원']
+
+
+[461] Q: What does 성형수술 mean?
+    Korean in question: ['성형수술']
+
+
+[462] Q: What does 부탁 mean?
+    Korean in question: ['부탁']
+
+
+[463] Q: What does 환자 mean?
+    Korean in question: ['환자']
+
+
+[464] Q: What does 앨범 mean?
+    Korean in question: ['앨범']
+
+
+[465] Q: What does 서비스 mean?
+    Korean in question: ['서비스']
+
+
+[466] Q: What does 부탁하다 mean?
+    Korean in question: ['부탁하다']
+
+
+[467] Q: What does 이사하다 mean?
+    Korean in question: ['이사하다']
+
+
+[468] Q: What does 합격하다 mean?
+    Korean in question: ['합격하다']
+
+
+[469] Q: What does 생기다 mean?
+    Korean in question: ['생기다']
+
+
+[470] Q: What does 그가 무료라고 했어요. mean?
+    Korean in question: ['그가', '무료라고', '했어요']
+
+
+[471] Q: What does 제가 미국사람이라고 했어요. mean?
+    Korean in question: ['제가', '미국사람이라고', '했어요']
+
+
+[472] Q: What does 의사 means “doctor” mean?
+    Korean in question: ['의사']
+
+
+[473] Q: What does 듣다 mean?
+    Korean in question: ['듣다']
+
+
+[474] Q: What does 프랑스가 아름답다고 들었어요. mean?
+    Korean in question: ['프랑스가', '아름답다고', '들었어요']
+
+
+[475] Q: What does 친구가 생기다 mean?
+    Korean in question: ['친구가', '생기다']
+
+
+[476] Q: What does 아기가 생기다 mean?
+    Korean in question: ['아기가', '생기다']
+
+
+[477] Q: What does 시간이 생기다 mean?
+    Korean in question: ['시간이', '생기다']
+
+
+[478] Q: What does 문제가 생기다 mean?
+    Korean in question: ['문제가', '생기다']
+
+
+[479] Q: What does 잘생기다 mean?
+    Korean in question: ['잘생기다']
+
+
+[480] Q: What does 못생기다 mean?
+    Korean in question: ['못생기다']
+
+
+[481] Q: What does 그림 mean?
+    Korean in question: ['그림']
+
+
+[482] Q: What does 웃음 mean?
+    Korean in question: ['웃음']
+
+
+[483] Q: What does 막내 mean?
+    Korean in question: ['막내']
+
+
+[484] Q: What does 급우 mean?
+    Korean in question: ['급우']
+
+
+[485] Q: What does 재료 mean?
+    Korean in question: ['재료']
+
+
+[486] Q: What does 가능성 mean?
+    Korean in question: ['가능성']
+
+
+[487] Q: What does 이기적 mean?
+    Korean in question: ['이기적']
+
+
+[488] Q: What does 자연 mean?
+    Korean in question: ['자연']
+
+
+[489] Q: What does 교통사고 mean?
+    Korean in question: ['교통사고']
+
+
+[490] Q: What does 제대로 mean?
+    Korean in question: ['제대로']
+
+
+[491] Q: What does 즐겁다 mean?
+    Korean in question: ['즐겁다']
+
+
+[492] Q: What does 신선하다 mean?
+    Korean in question: ['신선하다']
+
+
+[493] Q: What does 가능하다 mean?
+    Korean in question: ['가능하다']
+
+
+[494] Q: What does 기대하다 mean?
+    Korean in question: ['기대하다']
+
+
+[495] Q: What does 느끼다 mean?
+    Korean in question: ['느끼다']
+
+
+[496] Q: What does 숨을 쉬다 mean?
+    Korean in question: ['숨을', '쉬다']
+
+
+[497] Q: What does 그리다 mean?
+    Korean in question: ['그리다']
+
+
+[498] Q: What does 씻다 mean?
+    Korean in question: ['씻다']
+
+
+[499] Q: What does 하기 쉽다 mean?
+    Korean in question: ['하기', '쉽다']
+
+
+[500] Q: What does 하기 좋다 mean?
+    Korean in question: ['하기', '좋다']
+
+
+[501] Q: What does 하기 싫다 mean?
+    Korean in question: ['하기', '싫다']
+
+
+[502] Q: What does 하기 힘들다 mean?
+    Korean in question: ['하기', '힘들다']
+
+
+[503] Q: What does 뉴욕에서는 운전하기 힘들어요. mean?
+    Korean in question: ['뉴욕에서는', '운전하기', '힘들어요']
+
+
+[504] Q: What does 즐거워 mean?
+    Korean in question: ['즐거워']
+
+
+[505] Q: What does 신선해 mean?
+    Korean in question: ['신선해']
+
+
+[506] Q: What does 숨을 쉬어 mean?
+    Korean in question: ['숨을', '쉬어']
+
+
+[507] Q: What does 씻어 mean?
+    Korean in question: ['씻어']
+
+
+[508] Q: What does 믹서기 mean?
+    Korean in question: ['믹서기']
+
+
+[509] Q: What does 카메라 mean?
+    Korean in question: ['카메라']
+
+
+[510] Q: What does 선풍기 mean?
+    Korean in question: ['선풍기']
+
+
+[511] Q: What does 전자 사전 mean?
+    Korean in question: ['전자', '사전']
+
+
+[512] Q: What does 충전기 mean?
+    Korean in question: ['충전기']
+
+
+[513] Q: What does 건전지 mean?
+    Korean in question: ['건전지']
+
+
+[514] Q: What does 녹음기 mean?
+    Korean in question: ['녹음기']
+
+
+[515] Q: What does 전기 칫솔 mean?
+    Korean in question: ['전기', '칫솔']
+
+
+[516] Q: What does 청소기 mean?
+    Korean in question: ['청소기']
+
+
+[517] Q: What does 깔깔, 키득키득, 킥킥 mean?
+    Korean in question: ['깔깔', '키득키득', '킥킥']
+
+
+[518] Q: What does 콜록콜록 mean?
+    Korean in question: ['콜록콜록']
+
+
+[519] Q: What does 두근두근, 콩닥콩닥 mean?
+    Korean in question: ['두근두근', '콩닥콩닥']
+
+
+[520] Q: What does 꿀꺽꿀꺽, 꼴깍꼴깍 mean?
+    Korean in question: ['꿀꺽꿀꺽', '꼴깍꼴깍']
+
+
+[521] Q: What does 반짝반짝 mean?
+    Korean in question: ['반짝반짝']
+
+
+[522] Q: What does 바삭바삭 mean?
+    Korean in question: ['바삭바삭']
+
+
+[523] Q: What does 사각사각 mean?
+    Korean in question: ['사각사각']
+
+
+[524] Q: What does 소곤소곤 mean?
+    Korean in question: ['소곤소곤']
+
+
+[525] Q: What does 욱신욱신 mean?
+    Korean in question: ['욱신욱신']
+
+
+[526] Q: What does 부랴부랴, 허겁지겁 mean?
+    Korean in question: ['부랴부랴', '허겁지겁']
+
+
+[527] Q: What does 부랴부랴 지하철을 내렸어요. mean?
+    Korean in question: ['부랴부랴', '지하철을', '내렸어요']
+
+
+[528] Q: What does 소곤소곤 말했어요. mean?
+    Korean in question: ['소곤소곤', '말했어요']
+
+
+[529] Q: What does 엄마가 깔깔 웃었어요. mean?
+    Korean in question: ['엄마가', '깔깔', '웃었어요']
+
+
+[530] Q: What does 가슴이 콩닥콩닥 뛰어요. mean?
+    Korean in question: ['가슴이', '콩닥콩닥', '뛰어요']
+
+
+[531] Q: What does 몸이 욱신욱신 거려요. mean?
+    Korean in question: ['몸이', '욱신욱신', '거려요']
+
+
+[532] Q: What does 이 샐러드는 사작사작해요. mean?
+    Korean in question: ['이', '샐러드는', '사작사작해요']
+
+
+[533] Q: What does 물을 꿀꺽꿀꺽 마셨어요. mean?
+    Korean in question: ['물을', '꿀꺽꿀꺽', '마셨어요']
+
+
+[534] Q: What does 늦어서 허겁지겁 준비했어요. mean?
+    Korean in question: ['늦어서', '허겁지겁', '준비했어요']
+
+
+[535] Q: What does 월말 mean?
+    Korean in question: ['월말']
+
+
+[536] Q: What does 연말 mean?
+    Korean in question: ['연말']
+
+
+[537] Q: What does 기숙사 mean?
+    Korean in question: ['기숙사']
+
+
+[538] Q: What does 괜찮다 mean?
+    Korean in question: ['괜찮다']
+
+
+[539] Q: What does 이상하다 mean?
+    Korean in question: ['이상하다']
+
+
+[540] Q: What does 살이 찌다 mean?
+    Korean in question: ['살이', '찌다']
+
+
+[541] Q: What does 살이 빠지다 mean?
+    Korean in question: ['살이', '빠지다']
+
+
+[542] Q: What does 살을 빼다 mean?
+    Korean in question: ['살을', '빼다']
+
+
+[543] Q: What does 이상해 mean?
+    Korean in question: ['이상해']
+
+
+[544] Q: What does 아무것도 mean?
+    Korean in question: ['아무것도']
+
+
+[545] Q: What does 아무거나 mean?
+    Korean in question: ['아무거나']
+
+
+[546] Q: What does 아무도 mean?
+    Korean in question: ['아무도']
+
+
+[547] Q: What does 아무나 mean?
+    Korean in question: ['아무나']
+
+
+[548] Q: What does 아무 데도 mean?
+    Korean in question: ['아무', '데도']
+
+
+[549] Q: What does 아무 데나 mean?
+    Korean in question: ['아무', '데나']
+
+
+[550] Q: What does 화장실에 아무도 없어요. mean?
+    Korean in question: ['화장실에', '아무도', '없어요']
+
+
+[551] Q: What does 아무 데나 앉으세요. mean?
+    Korean in question: ['아무', '데나', '앉으세요']
+
+
+[552] Q: What does 하나요? is a mean?
+    Korean in question: ['하나요']
+
+
+[553] Q: What does 다리미 mean?
+    Korean in question: ['다리미']
+
+
+[554] Q: What does 압력밥솥 mean?
+    Korean in question: ['압력밥솥']
+
+
+[555] Q: What does 토스터 mean?
+    Korean in question: ['토스터']
+
+
+[556] Q: What does 세탁기 mean?
+    Korean in question: ['세탁기']
+
+
+[557] Q: What does 건조기 mean?
+    Korean in question: ['건조기']
+
+
+[558] Q: What does 제습기 mean?
+    Korean in question: ['제습기']
+
+
+[559] Q: What does 정수기 mean?
+    Korean in question: ['정수기']
+
+
+[560] Q: What does 식기 세척기 mean?
+    Korean in question: ['식기', '세척기']
+
+
+[561] Q: What does 김치 냉장고 mean?
+    Korean in question: ['김치', '냉장고']
+
+
+[562] Q: What does 백설공주 mean?
+    Korean in question: ['백설공주']
+
+
+[563] Q: What does 야식 mean?
+    Korean in question: ['야식']
+
+
+[564] Q: What does 하얗다 mean?
+    Korean in question: ['하얗다']
+
+
+[565] Q: What does 까맣다 mean?
+    Korean in question: ['까맣다']
+
+
+[566] Q: What does 파랗다 mean?
+    Korean in question: ['파랗다']
+
+
+[567] Q: What does 빨갛다 mean?
+    Korean in question: ['빨갛다']
+
+
+[568] Q: What does 노랗다 mean?
+    Korean in question: ['노랗다']
+
+
+[569] Q: What does 어떻다 mean?
+    Korean in question: ['어떻다']
+
+
+[570] Q: What does 이렇다 mean?
+    Korean in question: ['이렇다']
+
+
+[571] Q: What does 그렇다 mean?
+    Korean in question: ['그렇다']
+
+
+[572] Q: What does 저렇다 mean?
+    Korean in question: ['저렇다']
+
+
+[573] Q: What does 뚱뚱하다 mean?
+    Korean in question: ['뚱뚱하다']
+
+
+[574] Q: What does 통통하다 mean?
+    Korean in question: ['통통하다']
+
+
+[575] Q: What does 날씬하다 mean?
+    Korean in question: ['날씬하다']
+
+
+[576] Q: What does 어지럽다 mean?
+    Korean in question: ['어지럽다']
+
+
+[577] Q: What does 어떻 mean?
+    Korean in question: ['어떻']
+
+
+[578] Q: What does 어때요? mean?
+    Korean in question: ['어때요']
+
+
+[579] Q: What does 이래요. mean?
+    Korean in question: ['이래요']
+
+
+[580] Q: What does 이렇다고 생각해요. mean?
+    Korean in question: ['이렇다고', '생각해요']
+
+
+[581] Q: What does 이런 것 같아요. mean?
+    Korean in question: ['이런', '것', '같아요']
+
+
+[582] Q: What does 왜 이래요? mean?
+    Korean in question: ['왜', '이래요']
+
+
+[583] Q: What does 그런데… mean?
+    Korean in question: ['그런데']
+
+
+[584] Q: What does 그럼… mean?
+    Korean in question: ['그럼']
+
+
+[585] Q: What does 그러면… mean?
+    Korean in question: ['그러면']
+
+
+[586] Q: What does 왜 그래? mean?
+    Korean in question: ['왜', '그래']
+
+
+[587] Q: What does 그렇게 하세요. mean?
+    Korean in question: ['그렇게', '하세요']
+
+
+[588] Q: What does 맵게 만드세요. mean?
+    Korean in question: ['맵게', '만드세요']
+
+
+[589] Q: What does 달게 만드세요. mean?
+    Korean in question: ['달게', '만드세요']
+
+
+[590] Q: What does 짜게 만드세요. mean?
+    Korean in question: ['짜게', '만드세요']
+
+
+[591] Q: What does 귀엽게 춤을 추세요. mean?
+    Korean in question: ['귀엽게', '춤을', '추세요']
+
+
+[592] Q: What does 멋있게 춤을 추세요. mean?
+    Korean in question: ['멋있게', '춤을', '추세요']
+
+
+[593] Q: What does 더 크게 말하세요. mean?
+    Korean in question: ['더', '크게', '말하세요']
+
+
+[594] Q: What does 더 착하게 말하세요. mean?
+    Korean in question: ['더', '착하게', '말하세요']
+
+
+[595] Q: What does 더 부드럽게 말하세요. mean?
+    Korean in question: ['더', '부드럽게', '말하세요']
+
+
+[596] Q: What does 따뜻하게 입으세요. mean?
+    Korean in question: ['따뜻하게', '입으세요']
+
+
+[597] Q: What does 섹시하게 입으세요. mean?
+    Korean in question: ['섹시하게', '입으세요']
+
+
+[598] Q: What does 여자친구가 예뻐졌어요. mean?
+    Korean in question: ['여자친구가', '예뻐졌어요']
+
+
+[599] Q: What does 여자친구가 예쁘게 됐어요. mean?
+    Korean in question: ['여자친구가', '예쁘게', '됐어요']
+
+
+[600] Q: What does 노래 mean?
+    Korean in question: ['노래']
+
+
+[601] Q: What does 빨간색 mean?
+    Korean in question: ['빨간색']
+
+
+[602] Q: What does 파란색 mean?
+    Korean in question: ['파란색']
+
+
+[603] Q: What does 노란색 mean?
+    Korean in question: ['노란색']
+
+
+[604] Q: What does 초록색 mean?
+    Korean in question: ['초록색']
+
+
+[605] Q: What does 검은색 mean?
+    Korean in question: ['검은색']
+
+
+[606] Q: What does 주황색 mean?
+    Korean in question: ['주황색']
+
+
+[607] Q: What does 보라색 mean?
+    Korean in question: ['보라색']
+
+
+[608] Q: What does 갈색 mean?
+    Korean in question: ['갈색']
+
+
+[609] Q: What does 하늘색 mean?
+    Korean in question: ['하늘색']
+
+
+[610] Q: What does 무슨 색깔? mean?
+    Korean in question: ['무슨', '색깔']
+
+
+[611] Q: What does 빨다 (to wash, mean?
+    Korean in question: ['빨다']
+
+
+[612] Q: What does 어떻게 하면 돼요? mean?
+    Korean in question: ['어떻게', '하면', '돼요']
+
+
+[613] Q: What does 어떻게 하면 좋을까요? mean?
+    Korean in question: ['어떻게', '하면', '좋을까요']
+
+
+[614] Q: What does 태양계 mean?
+    Korean in question: ['태양계']
+
+
+[615] Q: What does 행성 mean?
+    Korean in question: ['행성']
+
+
+[616] Q: What does 왜소행성 mean?
+    Korean in question: ['왜소행성']
+
+
+[617] Q: What does 태양 mean?
+    Korean in question: ['태양']
+
+
+[618] Q: What does 수성 mean?
+    Korean in question: ['수성']
+
+
+[619] Q: What does 금성 mean?
+    Korean in question: ['금성']
+
+
+[620] Q: What does 지구 mean?
+    Korean in question: ['지구']
+
+
+[621] Q: What does 화성 mean?
+    Korean in question: ['화성']
+
+
+[622] Q: What does 목성 mean?
+    Korean in question: ['목성']
+
+
+[623] Q: What does 토성 mean?
+    Korean in question: ['토성']
+
+
+[624] Q: What does 천왕성 mean?
+    Korean in question: ['천왕성']
+
+
+[625] Q: What does 해왕성 mean?
+    Korean in question: ['해왕성']
+
+
+[626] Q: What does 명왕성 mean?
+    Korean in question: ['명왕성']
+
+
+[627] Q: What does 미술관 mean?
+    Korean in question: ['미술관']
+
+
+[628] Q: What does 쓰레기 mean?
+    Korean in question: ['쓰레기']
+
+
+[629] Q: What does 담배 mean?
+    Korean in question: ['담배']
+
+
+[630] Q: What does 하나님 mean?
+    Korean in question: ['하나님']
+
+
+[631] Q: What does 산타클로스 mean?
+    Korean in question: ['산타클로스']
+
+
+[632] Q: What does 일기 mean?
+    Korean in question: ['일기']
+
+
+[633] Q: What does 거짓말쟁이 mean?
+    Korean in question: ['거짓말쟁이']
+
+
+[634] Q: What does 도시락 mean?
+    Korean in question: ['도시락']
+
+
+[635] Q: What does 졸업식 mean?
+    Korean in question: ['졸업식']
+
+
+[636] Q: What does 외계인 mean?
+    Korean in question: ['외계인']
+
+
+[637] Q: What does 조용히 mean?
+    Korean in question: ['조용히']
+
+
+[638] Q: What does 아까 mean?
+    Korean in question: ['아까']
+
+
+[639] Q: What does 고장이 나다 mean?
+    Korean in question: ['고장이', '나다']
+
+
+[640] Q: What does 열이 나다 mean?
+    Korean in question: ['열이', '나다']
+
+
+[641] Q: What does 가져가다 mean?
+    Korean in question: ['가져가다']
+
+
+[642] Q: What does 데려가다 mean?
+    Korean in question: ['데려가다']
+
+
+[643] Q: What does 가져오다 mean?
+    Korean in question: ['가져오다']
+
+
+[644] Q: What does 데려오다 mean?
+    Korean in question: ['데려오다']
+
+
+[645] Q: What does 떠들다 mean?
+    Korean in question: ['떠들다']
+
+
+[646] Q: What does 담배를 피우다 mean?
+    Korean in question: ['담배를', '피우다']
+
+
+[647] Q: What does 바람을 피우다 mean?
+    Korean in question: ['바람을', '피우다']
+
+
+[648] Q: What does 먹어도 돼요? mean?
+    Korean in question: ['먹어도', '돼요']
+
+
+[649] Q: What does 앉아도 돼요? mean?
+    Korean in question: ['앉아도', '돼요']
+
+
+[650] Q: What does 말해도 돼요? mean?
+    Korean in question: ['말해도', '돼요']
+
+
+[651] Q: What does 네 먹어도 돼요. mean?
+    Korean in question: ['네', '먹어도', '돼요']
+
+
+[652] Q: What does 네 봐도 돼요. mean?
+    Korean in question: ['네', '봐도', '돼요']
+
+
+[653] Q: What does 네 앉아도 돼요. mean?
+    Korean in question: ['네', '앉아도', '돼요']
+
+
+[654] Q: What does 네 말해도 돼요. mean?
+    Korean in question: ['네', '말해도', '돼요']
+
+
+[655] Q: What does 믿어 mean?
+    Korean in question: ['믿어']
+
+
+[656] Q: What does 하나님을 믿어요? mean?
+    Korean in question: ['하나님을', '믿어요']
+
+
+[657] Q: What does 널 못 믿어! mean?
+    Korean in question: ['널', '못', '믿어']
+
+
+[658] Q: What does 지 makes it mean?
+    Korean in question: ['지']
+
+
+[659] Q: What does 고장이 나 mean?
+    Korean in question: ['고장이', '나']
+
+
+[660] Q: What does 가져와 mean?
+    Korean in question: ['가져와']
+
+
+[661] Q: What does 열이 나 mean?
+    Korean in question: ['열이', '나']
+
+
+[662] Q: What does 시끄럽다 can mean?
+    Korean in question: ['시끄럽다']
+
+
+[663] Q: What does 떠들어 mean?
+    Korean in question: ['떠들어']
+

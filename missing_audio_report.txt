@@ -1,0 +1,16 @@
+Exercises with optionKor: 3
+optionKor entries with audio: 4
+optionKor entries MISSING audio: 5
+
+Missing entries:
+  "ㄴ" (U+3134)
+  "ㅇ" (U+3147)
+  "ㅗ" (U+3157)
+  "ㅜ" (U+315C)
+  "ㅣ" (U+3163)
+
+Found entries:
+  "ㄱ" (U+3131)
+  "ㅅ" (U+3145)
+  "ㅏ" (U+314F)
+  "ㅓ" (U+3153)

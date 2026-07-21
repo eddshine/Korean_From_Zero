@@ -1,0 +1,2 @@
+'ㅗ': '/audio/jamo_3157.ogg',
+'ㅣ': '/audio/jamo_3163.ogg',

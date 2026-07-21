@@ -1,0 +1,252 @@
+/* ============================================================
+   Animation library for Korean Learning App
+   Micro-interactions, page transitions, and celebrations.
+   ============================================================ */
+
+/* ---------- Keyframes ---------- */
+
+@keyframes pageEnter {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes cardEnter {
+  from { opacity: 0; transform: translateY(18px) scale(0.98); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes pop {
+  0%   { transform: scale(1); }
+  40%  { transform: scale(1.08); }
+  100% { transform: scale(1); }
+}
+
+@keyframes popSoft {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.04); }
+  100% { transform: scale(1); }
+}
+
+@keyframes bannerIn {
+  0%   { opacity: 0; transform: translateY(-8px) scaleY(0.9); }
+  100% { opacity: 1; transform: translateY(0) scaleY(1); }
+}
+
+@keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-6px); }
+}
+
+@keyframes heartBeat {
+  0%, 100% { transform: scale(1); }
+  25%      { transform: scale(1.25); }
+  50%      { transform: scale(1); }
+  75%      { transform: scale(1.15); }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: translateX(0); }
+  15%      { transform: translateX(-6px) rotate(-1deg); }
+  30%      { transform: translateX(6px) rotate(1deg); }
+  45%      { transform: translateX(-5px); }
+  60%      { transform: translateX(5px); }
+  75%      { transform: translateX(-3px); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -468px 0; }
+  100% { background-position: 468px 0; }
+}
+
+@keyframes gradientShift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(88, 204, 2, 0.0); }
+  50%      { box-shadow: 0 0 14px 2px rgba(88, 204, 2, 0.35); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Confetti pieces */
+@keyframes confettiFall {
+  0%   { transform: translateY(-12vh) rotateZ(0deg); opacity: 1; }
+  100% { transform: translateY(112vh) rotateZ(720deg); opacity: 1; }
+}
+
+/* Celebration burst ring */
+@keyframes burstRing {
+  0%   { transform: scale(0.2); opacity: 0.7; }
+  100% { transform: scale(2.4); opacity: 0; }
+}
+
+@keyframes starPop {
+  0%   { transform: scale(0) rotate(-45deg); opacity: 0; }
+  60%  { transform: scale(1.3) rotate(12deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+
+/* ---------- Utility classes ---------- */
+
+.page-enter {
+  animation: pageEnter 0.38s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.card-enter {
+  animation: cardEnter 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Staggered card entrance helper: set --i (index) inline for delay */
+.card-enter-stagger {
+  animation: cardEnter 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--i, 0) * 55ms);
+}
+
+.banner-enter {
+  animation: bannerIn 0.28s ease-out both;
+}
+
+.pop-on-select {
+  animation: pop 0.3s ease both;
+}
+
+.correct-pop {
+  animation: popSoft 0.4s ease both;
+}
+
+.wrong-wiggle {
+  animation: wiggle 0.5s ease both;
+}
+
+.float-soft {
+  animation: floaty 3s ease-in-out infinite;
+}
+
+.heart-beat {
+  display: inline-block;
+  animation: heartBeat 0.6s ease both;
+}
+
+.glow-pulse {
+  animation: glowPulse 1.6s ease-in-out infinite;
+}
+
+.star-pop {
+  animation: starPop 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Button micro-interactions */
+.btn-pop {
+  transition: transform 0.12s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.btn-pop:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+.btn-pop:active:not(:disabled) {
+  transform: translateY(1px) scale(0.98);
+}
+
+/* Option button micro-interactions */
+.opt-pop {
+  transition: transform 0.12s ease, box-shadow 0.15s ease, background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.opt-pop:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+.opt-pop:active:not(:disabled) {
+  transform: translateY(1px) scale(0.99);
+}
+
+/* Loading shimmer */
+.shimmer {
+  background: linear-gradient(90deg, #EEE 25%, #F5F5F5 50%, #EEE 75%);
+  background-size: 936px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+
+/* Confetti container */
+.confetti-layer {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 2000;
+}
+.confetti-piece {
+  position: absolute;
+  top: -12vh;
+  width: 10px;
+  height: 14px;
+  opacity: 0.95;
+  will-change: transform;
+  animation-name: confettiFall;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+/* Celebration burst ring */
+.burst-ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid rgba(88, 204, 2, 0.6);
+  animation: burstRing 0.7s ease-out forwards;
+  pointer-events: none;
+}
+
+/* Custom title bar */
+.titlebar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 36px;
+  background: var(--bg-header);
+  -webkit-app-region: drag;
+  user-select: none;
+  padding: 0 8px;
+  flex-shrink: 0;
+}
+.titlebar-title {
+  flex: 1;
+}
+.titlebar-controls {
+  display: flex;
+  gap: 2px;
+  -webkit-app-region: no-drag;
+}
+.titlebar-btn {
+  width: 36px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  color: #666;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+}
+.titlebar-btn:hover {
+  background: rgba(0, 0, 0, 0.06);
+  color: #333;
+}
+.titlebar-btn-close:hover {
+  background: #e81123;
+  color: #fff;
+}
+
+.theme-dark .titlebar-btn {
+  color: #999;
+}
+.theme-dark .titlebar-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #eee;
+}
