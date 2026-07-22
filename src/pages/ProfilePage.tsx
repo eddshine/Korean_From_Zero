@@ -105,13 +105,13 @@ export function ProfilePage() {
 
       {/* Theme Toggle */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '16px' }}>
-        <span style={{
-          fontSize: '18px',
-          fontWeight: 600,
-          color: 'var(--text)',
-        }}>
-          {game.theme === 'dark' ? 'Dark Mode' : 'Light Mode'}
-        </span>
+<span style={{
+            fontSize: '18px',
+            fontWeight: 600,
+            color: 'var(--text)',
+          }}>
+            Themes
+          </span>
         <label style={{
           position: 'relative',
           display: 'inline-flex',
