@@ -103,6 +103,65 @@ export function ProfilePage() {
         </p>
       </div>
 
+      {/* Theme Toggle */}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end', marginBottom: '16px' }}>
+        <label style={{
+          position: 'relative',
+          display: 'inline-flex',
+          alignItems: 'center',
+          cursor: 'pointer',
+        }}>
+          <input
+            type="checkbox"
+            checked={game.theme === 'dark'}
+            onChange={() => { playSfx('button_click'); toggleTheme() }}
+            style={{
+              position: 'absolute',
+              opacity: 0,
+              width: 0,
+              height: 0,
+            }}
+          />
+          <span style={{
+            display: 'block',
+            width: '56px',
+            height: '32px',
+            background: game.theme === 'dark' ? '#58CC02' : 'var(--border)',
+            borderRadius: '16px',
+            border: '2px solid var(--border)',
+            transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+            position: 'relative',
+            boxShadow: 'inset 0 2px 4px rgba(0,0,0,0.1)',
+          }}>
+            <span style={{
+              position: 'absolute',
+              top: '2px',
+              left: game.theme === 'dark' ? '28px' : '2px',
+              width: '26px',
+              height: '26px',
+              background: 'white',
+              borderRadius: '50%',
+              transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+              boxShadow: '0 2px 6px rgba(0,0,0,0.2)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: '14px',
+            }}>
+              {game.theme === 'dark' ? '🌙' : '☀️'}
+            </span>
+          </span>
+          <span style={{
+            marginLeft: '10px',
+            fontSize: '14px',
+            fontWeight: 600,
+            color: 'var(--text)',
+          }}>
+            {game.theme === 'dark' ? 'Dark Mode' : 'Light Mode'}
+          </span>
+        </label>
+      </div>
+
       {/* Stats Grid */}
       <h2 style={{ fontSize: '18px', fontWeight: 700, color: 'var(--text)', margin: '0 0 12px 0' }}>
         Your Statistics
@@ -220,25 +279,6 @@ export function ProfilePage() {
             </div>
           )
         })}
-      </div>
-
-      {/* Theme Toggle */}
-      <div style={{ textAlign: 'center', marginBottom: '16px' }}>
-        <button
-          onClick={() => { playSfx('button_click'); toggleTheme() }}
-          style={{
-            padding: '10px 24px',
-            background: 'var(--bg-card)',
-            border: '2px solid var(--border)',
-            borderRadius: '12px',
-            color: 'var(--text)',
-            fontSize: '14px',
-            fontWeight: 600,
-            cursor: 'pointer',
-          }}
-        >
-          {game.theme === 'light' ? '🌙 Switch to Dark Theme' : '☀️ Switch to Light Theme'}
-        </button>
       </div>
 
       {/* Reset Button */}
