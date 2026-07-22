@@ -104,7 +104,14 @@ export function ProfilePage() {
       </div>
 
       {/* Theme Toggle */}
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end', marginBottom: '16px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '16px' }}>
+        <span style={{
+          fontSize: '18px',
+          fontWeight: 600,
+          color: 'var(--text)',
+        }}>
+          {game.theme === 'dark' ? 'Dark Mode' : 'Light Mode'}
+        </span>
         <label style={{
           position: 'relative',
           display: 'inline-flex',
@@ -150,14 +157,6 @@ export function ProfilePage() {
             }}>
               {game.theme === 'dark' ? '🌙' : '☀️'}
             </span>
-          </span>
-          <span style={{
-            marginLeft: '10px',
-            fontSize: '14px',
-            fontWeight: 600,
-            color: 'var(--text)',
-          }}>
-            {game.theme === 'dark' ? 'Dark Mode' : 'Light Mode'}
           </span>
         </label>
       </div>
